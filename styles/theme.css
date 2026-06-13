@@ -1,0 +1,260 @@
+/* ============================================================
+   Cinatomy — Custom Design System
+   UI-UX Pro Max: Dark Mode (OLED) + Data-Dense Analytics
+   Typography: Poppins (headings) + Open Sans (body)
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+
+/* --- CSS Custom Properties --- */
+:root {
+    --color-primary: #3B82F6;
+    --color-secondary: #60A5FA;
+    --color-bg: #0A0E27;
+    --color-surface: #121212;
+    --color-text: #F8FAFC;
+    --color-muted: #94A3B8;
+    --color-border: #1E293B;
+    --color-success: #22C55E;
+    --color-warning: #EAB308;
+    --color-danger: #EF4444;
+    --color-orange: #F97316;
+    --color-blue: #3B82F6;
+    --font-heading: 'Poppins', sans-serif;
+    --font-body: 'Open Sans', sans-serif;
+    --radius: 12px;
+    --transition: 200ms ease-out;
+}
+
+/* --- Base Typography --- */
+html, body, [class*="st-"] {
+    font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6,
+[data-testid="stHeading"] {
+    font-family: var(--font-heading) !important;
+    font-weight: 600;
+}
+
+/* --- Cards / Containers --- */
+.report-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    transition: border-color var(--transition);
+}
+.report-card:hover {
+    border-color: var(--color-primary);
+}
+
+.section-header {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: var(--color-text);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border);
+}
+
+/* --- Score Badge --- */
+.score-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--color-text);
+}
+
+/* --- Progress Bars (Feature Breakdown) --- */
+.feature-bar-container {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+}
+.feature-bar-label {
+    flex: 0 0 160px;
+    font-size: 0.85rem;
+    color: var(--color-muted);
+    text-align: right;
+    font-family: var(--font-body);
+}
+.feature-bar-track {
+    flex: 1;
+    height: 8px;
+    background: var(--color-border);
+    border-radius: 4px;
+    overflow: hidden;
+}
+.feature-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width var(--transition);
+}
+.feature-bar-value {
+    flex: 0 0 32px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    font-family: var(--font-body);
+    font-variant-numeric: tabular-nums;
+    color: var(--color-text);
+}
+
+/* --- Movie Cards (Similar / Discover) --- */
+.movie-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1rem;
+    cursor: pointer;
+    transition: border-color var(--transition), transform var(--transition);
+}
+.movie-card:hover {
+    border-color: var(--color-primary);
+    transform: translateY(-2px);
+}
+
+.similarity-badge {
+    display: inline-block;
+    background: var(--color-primary);
+    color: var(--color-text);
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    font-family: var(--font-heading);
+}
+
+/* --- Overall Score --- */
+.overall-score {
+    text-align: center;
+    padding: 1.5rem;
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.08) 0%, rgba(96, 165, 250, 0.04) 100%);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    margin: 1rem 0;
+}
+.overall-score .score-number {
+    font-family: var(--font-heading);
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--color-primary);
+    line-height: 1;
+}
+.overall-score .score-label {
+    font-size: 0.9rem;
+    color: var(--color-muted);
+    margin-top: 0.25rem;
+}
+
+/* --- Emotional Profile Tags --- */
+.tag {
+    display: inline-block;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin: 0.2rem;
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+    background: rgba(59, 130, 246, 0.1);
+}
+
+/* --- Synopsis Box --- */
+.synopsis-box {
+    background: rgba(59, 130, 246, 0.05);
+    border-left: 3px solid var(--color-primary);
+    padding: 1rem 1.25rem;
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: var(--color-text);
+    margin: 1rem 0;
+}
+
+/* --- Streamlit Overrides --- */
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: var(--color-surface) !important;
+}
+
+/* Slider track */
+[data-testid="stSlider"] [role="slider"] {
+    cursor: pointer;
+}
+
+/* Buttons */
+.stButton > button {
+    cursor: pointer;
+    transition: all var(--transition);
+    border-radius: 8px;
+}
+.stButton > button:hover {
+    transform: translateY(-1px);
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab"] {
+    cursor: pointer;
+    font-family: var(--font-heading);
+    transition: color var(--transition);
+}
+
+/* Selectbox */
+[data-testid="stSelectbox"] {
+    cursor: pointer;
+}
+
+/* --- Preset Buttons --- */
+.preset-btn {
+    display: inline-block;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+    background: var(--color-surface);
+    cursor: pointer;
+    transition: all var(--transition);
+    margin: 0.2rem;
+}
+.preset-btn:hover {
+    border-color: var(--color-primary);
+    background: rgba(59, 130, 246, 0.1);
+}
+
+/* --- Accessibility: Reduced Motion --- */
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+    .movie-card:hover {
+        transform: none;
+    }
+    .stButton > button:hover {
+        transform: none;
+    }
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+    .feature-bar-label {
+        flex: 0 0 100px;
+        font-size: 0.75rem;
+    }
+    .overall-score .score-number {
+        font-size: 2.2rem;
+    }
+}

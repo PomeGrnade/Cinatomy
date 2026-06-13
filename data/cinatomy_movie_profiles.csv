@@ -1,0 +1,1001 @@
+movie_title,pacing_efficiency,originality,family_friendly,plot_quality_rating,plot_quality_reasons_for_liking,plot_quality_reasons_for_disliking,dialogues,end_feeling_emotional_adjective,end_feeling_ending_rating,end_feeling_structural_adjective,immersive,impactful,overall_feeling,visuals,visual_effects,sound_audio_balance_issue,sound_bgm_quality,sound_song_tracks_quality,performance_of_actors,connected,references_contained,cognitive_requirement,technical_knowledge_required,photosensitivity_warnings,animal_harm,trailer_or_spoiler
+The Shawshank Redemption,4,4,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,5,5,5,4,4,False,5,5,5,5,1,3,1,1,1,1
+The Godfather,4,5,1,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,3,4,4,1,1,4,3
+The Dark Knight,5,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,5,True,5,4,5,5,4,4,1,3,1,5
+The Godfather: Part II,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,5,5,4,1,1,1,5
+12 Angry Men,5,5,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,earned,5,5,5,4,1,False,3,1,5,1,1,4,1,1,1,3
+The Lord of the Rings: The Return of the King,4,5,3,5,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,5,False,5,5,4,5,5,3,1,2,3,1
+Pulp Fiction,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,neutral,4,satisfying,5,5,5,4,3,False,4,5,5,1,5,3,1,1,1,3
+Schindler's List,3,5,1,5,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,1,5,4,1,2,4,2
+Inception,5,5,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",['plot_holes'],3,energized,5,ambiguous,5,5,4,5,5,False,5,5,4,5,1,5,1,1,1,5
+Fight Club,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,3,5,1,2,1,4
+The Lord of the Rings: The Fellowship of the Ring,3,5,4,5,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,5,False,5,5,5,5,5,4,1,2,1,1
+Forrest Gump,4,4,4,4,"['unpredictable', 'strong_pacing', 'tight_structure']","['predictable', 'cliche']",5,bittersweet,4,satisfying,5,5,4,4,5,False,5,5,5,1,5,2,1,1,1,3
+"Il buono, il brutto, il cattivo",3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,3,1,3,1,1,3,3
+The Lord of the Rings: The Two Towers,4,4,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,5,5,4,5,5,False,5,5,5,5,5,4,1,2,3,5
+The Matrix,5,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,5,5,False,5,5,4,4,5,4,2,4,1,5
+Goodfellas,5,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,2,3,1,1,1,3
+Star Wars: Episode V - The Empire Strikes Back,5,5,4,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,5,False,5,5,4,5,4,3,1,2,2,5
+One Flew Over the Cuckoo's Nest,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,4,3,5,1,1,4,1,1,1,5
+Hamilton,5,5,4,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,5,5,1,5,4,1,2,1,2
+Gisaengchung,5,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,5,4,4,1,1,1,5
+Soorarai Pottru,4,3,3,4,"['strong_pacing', 'tight_structure']",['predictable'],4,energized,4,earned,4,4,4,3,3,False,4,4,5,1,1,2,1,1,1,3
+Interstellar,3,4,2,4,"['unpredictable', 'plot_twists']",['plot_holes'],3,energized,4,satisfying,5,5,4,5,5,True,5,5,4,1,4,4,3,1,1,4
+Cidade de Deus,5,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,1,3,1,3,5,4
+Sen to Chihiro no kamikakushi,3,5,5,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,5,False,5,5,5,1,4,3,1,1,1,3
+Saving Private Ryan,4,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,5,False,5,4,5,1,3,2,1,3,3,4
+The Green Mile,3,4,2,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,5,earned,5,5,4,3,3,False,4,3,5,1,1,2,1,1,1,3
+La vita è bella,3,5,3,4,['tight_structure'],['narrative_inconsistency'],4,bittersweet,5,earned,4,5,4,4,3,False,5,4,5,1,1,3,1,1,1,3
+Se7en,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,disappointed,5,earned,5,5,5,5,4,False,4,5,5,1,2,4,1,1,3,5
+The Silence of the Lambs,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,4,5,3,2,4,1,1,2,4
+Star Wars,4,5,5,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,energized,5,satisfying,5,5,5,5,5,False,5,5,3,5,1,2,1,1,1,1
+Seppuku,3,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,4,False,5,5,5,1,5,4,2,1,1,5
+Shichinin no samurai,4,5,2,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,1,4,3,1,1,2,1
+It's a Wonderful Life,3,4,4,4,"['tight_structure', 'unpredictable']","['predictable', 'cliche']",4,happy,5,satisfying,4,5,4,3,3,False,4,3,5,3,2,3,1,1,1,3
+Joker,3,4,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,5,5,4,5,4,False,5,4,5,3,4,4,1,2,1,3
+Whiplash,5,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,earned,5,5,5,4,3,False,5,5,5,1,2,4,1,1,1,3
+The Intouchables,4,4,3,4,"['strong_pacing', 'tight_structure']",['predictable'],5,happy,4,earned,4,5,4,3,3,False,5,4,5,1,1,3,1,1,1,3
+The Prestige,4,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,4,False,4,4,5,1,3,5,1,1,4,5
+The Departed,4,3,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,4,satisfying,4,5,4,3,3,False,4,5,5,1,2,4,1,2,2,3
+The Pianist,3,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,5,4,3,False,5,5,5,1,1,3,1,1,1,3
+Gladiator,4,4,1,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,4,earned,5,5,4,5,4,False,5,5,5,1,1,2,1,1,3,3
+American History X,3,4,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,sad,4,earned,5,5,4,4,3,False,4,3,5,1,2,4,1,2,1,3
+The Usual Suspects,4,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,energized,5,earned,5,5,5,4,3,False,5,4,5,1,1,4,1,1,1,5
+Léon,3,4,1,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],5,bittersweet,5,earned,4,5,4,4,3,False,5,5,5,1,1,3,1,2,1,4
+The Lion King,4,4,5,4,"['strong_pacing', 'tight_structure', 'plot_twists']",['predictable'],5,happy,5,earned,5,5,5,5,5,False,5,5,5,5,2,2,1,2,4,1
+Terminator 2: Judgment Day,5,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,satisfying,5,5,5,5,5,False,5,4,5,5,3,2,1,4,1,5
+Nuovo Cinema Paradiso,3,4,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,3,False,5,4,5,1,5,3,1,1,1,3
+Hotaru no haka,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,4,False,4,4,5,5,1,3,1,1,1,3
+Back to the Future,5,5,5,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,4,4,False,5,5,5,4,4,3,1,1,1,2
+Once Upon a Time in the West,3,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,5,4,3,1,4,5
+Psycho,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,sad,5,satisfying,5,5,5,5,4,False,5,3,5,3,3,4,2,1,1,5
+Casablanca,4,5,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,5,5,5,2,3,1,1,1,3
+Modern Times,4,5,5,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],3,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,1,3,1,1,1,1
+City Lights,4,5,5,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,3,False,5,5,5,1,1,2,1,1,1,2
+Capharnaüm,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,4,3,False,4,3,5,5,1,4,1,1,1,3
+Ayla: The Daughter of War,3,4,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,3,3,False,4,4,4,1,1,2,1,1,1,3
+Vikram Vedha,4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,4,earned,4,4,4,3,3,False,5,4,5,3,4,4,1,1,1,3
+Kimi no na wa.,4,5,4,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,5,5,5,5,5,False,5,5,5,1,1,3,1,1,1,4
+Dangal,4,4,5,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,energized,5,earned,4,5,4,3,3,False,4,4,5,4,4,2,1,2,1,3
+Spider-Man: Into the Spider-Verse,5,5,5,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,5,5,False,5,5,5,5,5,3,1,4,1,3
+Avengers: Endgame,4,3,4,4,"['plot_twists', 'strong_pacing']","['plot_holes', 'narrative_inconsistency']",4,bittersweet,5,satisfying,5,5,4,4,5,False,5,3,5,5,5,4,1,4,1,5
+Avengers: Infinity War,5,4,3,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,5,False,4,3,4,5,5,3,1,4,1,5
+Coco,4,5,5,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,satisfying,5,5,5,5,5,False,5,5,5,5,5,3,1,1,1,4
+Django Unchained,4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],5,energized,5,earned,5,5,4,4,4,False,5,5,5,1,5,3,1,3,3,3
+The Dark Knight Rises,3,3,2,3,"['plot_twists', 'tight_structure']","['plot_holes', 'narrative_inconsistency']",3,bittersweet,4,satisfying,4,4,3,4,4,True,4,3,4,5,4,4,2,3,1,4
+3 Idiots,4,4,5,4,"['plot_twists', 'strong_pacing', 'tight_structure']",['predictable'],5,happy,5,earned,4,5,4,3,3,False,4,5,5,4,1,2,1,1,1,3
+Taare Zameen Par,3,4,5,4,"['strong_pacing', 'tight_structure']",['predictable'],4,energized,5,earned,4,5,4,4,4,False,5,5,5,5,1,3,1,1,1,3
+WALL·E,4,5,5,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,bittersweet,5,earned,5,5,5,5,5,False,5,5,5,1,3,3,1,1,1,5
+The Lives of Others,4,5,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,4,5,1,2,4,1,1,1,4
+Oldeuboi,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,5,2,4,2,3,1,1
+Memento,5,5,2,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,3,False,5,4,5,1,1,5,1,1,1,5
+Mononoke-hime,4,5,2,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,4,False,5,4,4,1,2,4,1,3,5,4
+Once Upon a Time in America,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,5,ambiguous,5,5,5,5,4,False,5,5,5,1,2,5,1,1,4,5
+Raiders of the Lost Ark,5,5,4,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,satisfying,5,5,5,5,5,False,5,5,5,5,4,3,1,2,3,4
+The Shining,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,neutral,5,ambiguous,5,5,5,5,5,False,5,5,5,5,3,5,2,3,1,4
+Apocalypse Now,3,5,1,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,5,4,1,2,5,3
+Alien,3,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,5,5,5,5,5,False,5,4,5,1,2,3,1,3,1,4
+Anand,3,4,4,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,4,3,1,False,5,5,5,1,1,3,1,1,1,3
+Tengoku to jigoku,5,5,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,4,False,5,4,5,1,1,4,1,1,1,4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,5,4,4,False,5,5,5,5,4,4,3,1,1,3
+Witness for the Prosecution,4,4,3,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,energized,5,earned,5,5,5,4,3,False,4,3,5,3,3,4,1,1,1,5
+Paths of Glory,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,3,False,4,5,5,1,1,4,2,1,1,3
+Rear Window,4,5,3,5,"['strong_pacing', 'tight_structure']",[],5,neutral,4,satisfying,5,5,5,4,3,False,4,3,5,5,2,3,1,1,3,4
+Sunset Blvd.,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,4,False,5,3,5,1,5,3,1,1,1,5
+The Great Dictator,3,5,3,4,"['tight_structure', 'unpredictable']",[],4,energized,5,earned,4,5,4,4,3,False,4,4,5,5,5,3,1,1,1,3
+1917,4,5,2,4,"['strong_pacing', 'tight_structure']",[],3,bittersweet,4,earned,5,5,4,5,4,False,5,1,4,1,1,3,1,4,3,3
+Tumbbad,3,5,1,5,"['unpredictable', 'tight_structure']",[],3,sad,4,earned,5,5,5,5,4,False,5,4,4,1,2,3,1,2,3,4
+Andhadhun,5,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,neutral,5,ambiguous,5,5,5,4,4,False,5,4,5,1,2,4,1,2,2,4
+Drishyam,3,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],3,bittersweet,5,earned,4,4,4,3,3,False,4,3,5,1,4,4,1,1,1,5
+Jagten,3,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,4,3,5,1,1,4,1,1,1,5
+Jodaeiye Nader az Simin,4,5,2,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,neutral,5,earned,5,5,5,4,3,False,4,3,5,1,1,5,1,1,1,5
+Incendies,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,sad,5,earned,5,5,5,4,3,False,4,4,5,1,1,5,1,1,1,3
+Miracle in cell NO.7,3,3,3,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,5,earned,4,5,4,3,3,False,4,3,5,1,1,2,1,1,1,3
+Babam ve Oglum,3,3,4,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,5,earned,4,5,4,3,3,False,4,4,5,3,3,3,1,1,1,4
+Inglourious Basterds,4,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,4,5,4,False,5,5,5,5,5,3,1,2,1,3
+Eternal Sunshine of the Spotless Mind,4,5,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,satisfying,5,5,5,4,5,False,5,5,5,1,1,4,1,1,1,3
+Amélie,3,5,4,4,"['unpredictable', 'tight_structure']",['predictable'],4,happy,4,satisfying,5,5,4,5,4,False,5,5,5,1,2,3,1,1,1,3
+Snatch,5,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,4,earned,5,5,4,4,3,False,4,5,5,4,3,4,1,2,2,4
+Requiem for a Dream,4,5,1,5,"['strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,4,False,5,5,5,1,1,4,1,5,1,4
+American Beauty,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,5,earned,4,5,5,5,3,False,5,3,5,1,1,4,1,1,1,3
+Good Will Hunting,4,4,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,3,3,False,4,4,5,4,2,3,1,1,1,3
+Bacheha-Ye aseman,3,5,5,5,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,5,5,5,False,4,4,5,5,1,2,1,1,1,3
+Toy Story,5,5,5,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,5,5,5,5,5,False,5,5,5,1,1,2,1,1,1,1
+Braveheart,3,3,1,4,"['strong_pacing', 'tight_structure']","['cliche', 'narrative_inconsistency']",3,bittersweet,5,earned,4,5,4,4,4,False,5,5,4,4,4,2,1,2,5,2
+Reservoir Dogs,4,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,3,False,5,5,5,1,5,3,1,1,1,5
+Full Metal Jacket,3,4,1,4,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],5,sad,4,ambiguous,4,5,4,4,4,False,4,5,5,1,1,4,1,1,1,3
+Idi i smotri,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,4,False,5,3,5,1,1,5,2,4,1,4
+Aliens,5,5,1,5,"['strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,5,5,False,5,4,5,5,5,2,1,3,1,4
+Amadeus,4,5,2,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,1,4,1,1,1,3
+Scarface,3,4,1,4,"['strong_pacing', 'tight_structure']",['predictable'],5,neutral,5,earned,4,5,4,4,3,False,5,5,5,1,1,3,1,3,1,3
+Star Wars: Episode VI - Return of the Jedi,3,3,4,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,happy,5,satisfying,4,5,4,5,5,False,5,5,4,5,5,2,1,2,1,4
+Das Boot,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,5,False,5,4,5,1,1,4,2,4,1,5
+Taxi Driver,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,ambiguous,5,5,5,5,3,False,5,4,5,1,1,4,1,3,1,3
+The Sting,4,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,4,4,False,5,5,5,1,1,4,1,1,1,5
+A Clockwork Orange,3,5,1,5,"['unpredictable', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,4,False,5,4,5,1,2,5,1,4,1,3
+2001: A Space Odyssey,3,5,3,4,"['unpredictable', 'tight_structure']",[],2,energized,5,ambiguous,5,5,5,5,5,False,5,5,3,1,1,5,3,5,1,3
+Per qualche dollaro in più,4,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,4,5,3,False,5,5,5,5,3,3,1,1,2,3
+Lawrence of Arabia,3,5,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,4,False,5,5,5,1,3,4,1,1,3,2
+The Apartment,4,5,2,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,5,4,3,False,4,4,5,1,2,3,1,1,1,1
+North by Northwest,5,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,5,earned,5,5,5,5,4,False,5,4,5,1,2,3,1,1,1,5
+Vertigo,4,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,5,False,5,3,5,1,1,4,2,1,1,4
+Singin' in the Rain,4,4,5,4,"['strong_pacing', 'tight_structure']",[],4,happy,4,satisfying,4,5,5,5,4,False,5,5,5,3,3,1,1,1,1,3
+Ikiru,3,5,2,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,3,False,5,5,5,1,1,4,1,1,1,3
+Ladri di biciclette,3,5,3,5,"['strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,1,False,4,3,5,1,1,3,1,1,1,3
+Double Indemnity,5,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,1,1,3,1,1,1,5
+Citizen Kane,4,5,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,5,False,5,4,5,1,1,4,2,1,1,5
+M - Eine Stadt sucht einen Mörder,4,5,1,5,"['strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,4,False,4,3,5,1,1,4,1,1,1,3
+Metropolis,2,5,2,4,"['unpredictable', 'plot_twists']",['predictable'],1,bittersweet,3,satisfying,5,5,4,5,5,False,5,5,4,4,5,4,2,3,1,2
+The Kid,3,5,5,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,satisfying,4,5,4,4,3,False,4,4,5,1,1,2,1,1,1,1
+Chhichhore,4,3,5,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,energized,4,earned,4,4,4,3,3,False,4,4,4,3,3,2,1,1,1,3
+Uri: The Surgical Strike,4,2,3,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,energized,4,satisfying,4,5,4,4,4,False,4,4,5,1,2,2,2,3,3,4
+K.G.F: Chapter 1,4,3,1,2,['strong_pacing'],"['plot_holes', 'narrative_inconsistency']",3,energized,4,ambiguous,4,5,3,4,3,False,5,4,4,4,3,3,1,3,1,3
+Green Book,3,2,3,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,3,satisfying,3,3,3,3,3,False,3,3,5,1,2,2,1,1,1,3
+"Three Billboards Outside Ebbing, Missouri",4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,ambiguous,4,5,4,3,3,False,4,4,5,1,1,4,1,1,2,3
+Talvar,4,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,neutral,5,ambiguous,4,5,4,3,3,False,5,4,5,1,1,5,2,1,1,3
+Baahubali 2: The Conclusion,3,4,3,4,"['plot_twists', 'strong_pacing', 'tight_structure']",['cliche'],4,energized,4,satisfying,5,5,4,5,4,False,5,4,5,5,4,2,1,3,1,4
+Klaus,5,5,5,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,5,False,5,4,5,1,1,2,1,1,1,3
+Drishyam,3,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],3,bittersweet,5,earned,4,4,4,3,3,False,4,3,5,1,4,4,1,1,1,5
+Queen,4,5,4,4,['tight_structure'],[],5,energized,5,earned,5,5,5,4,3,False,5,5,5,1,1,2,1,1,1,3
+Mandariinid,3,4,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,4,5,4,3,3,False,4,3,5,1,2,4,1,1,1,4
+Bhaag Milkha Bhaag,3,3,4,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['cliche'],4,energized,4,earned,4,4,4,4,3,False,4,5,5,1,1,2,1,1,1,4
+Gangs of Wasseypur,3,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",['narrative_inconsistency'],5,bittersweet,4,earned,5,5,4,4,3,False,5,5,5,3,4,4,2,3,4,3
+Udaan,3,5,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,4,3,False,5,5,5,1,1,4,1,1,1,3
+Paan Singh Tomar,3,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,4,earned,4,4,4,3,3,False,3,3,5,1,1,3,1,1,1,3
+El secreto de sus ojos,4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,4,5,4,4,3,False,4,3,5,4,2,4,1,1,1,3
+Warrior,4,3,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,3,3,False,4,3,5,4,1,2,1,1,1,3
+Shutter Island,3,3,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['predictable'],3,bittersweet,5,earned,4,4,4,4,4,False,5,4,5,1,4,4,1,3,1,2
+Up,4,5,5,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],4,bittersweet,5,satisfying,5,5,5,5,5,False,5,5,5,1,3,3,1,1,1,3
+The Wolf of Wall Street,5,4,1,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],5,neutral,4,earned,5,5,4,4,3,False,5,5,5,1,4,3,2,2,1,3
+Chak De! India,4,4,5,4,"['strong_pacing', 'tight_structure']",['predictable'],5,energized,5,satisfying,4,5,5,3,3,False,5,5,5,4,1,2,2,1,1,3
+There Will Be Blood,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,1,4,1,1,3,3
+Pan's Labyrinth,3,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,5,False,5,4,5,5,2,4,1,1,2,5
+Toy Story 3,5,4,5,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,5,False,5,4,5,5,4,3,1,1,1,4
+V for Vendetta,3,4,1,4,"['plot_twists', 'tight_structure']",['cliche'],4,bittersweet,4,satisfying,4,5,4,4,3,False,4,4,4,1,5,4,1,1,1,3
+Rang De Basanti,4,4,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,4,4,3,False,5,5,5,5,5,3,1,1,1,4
+Black,3,4,3,4,"['strong_pacing', 'tight_structure']","['cliche', 'predictable']",4,bittersweet,4,earned,4,5,4,4,3,False,4,3,5,1,1,3,1,1,1,4
+Batman Begins,4,4,2,4,"['plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,4,5,4,4,4,False,5,4,5,4,3,3,1,2,1,4
+"Swades: We, the People",3,4,4,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,energized,4,earned,4,5,4,4,3,False,5,5,5,5,1,3,1,1,1,3
+Der Untergang,3,4,1,4,"['strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,4,4,4,False,4,3,5,1,1,4,1,3,3,1
+Hauru no ugoku shiro,2,4,4,3,['unpredictable'],"['plot_holes', 'narrative_inconsistency']",3,bittersweet,3,rushed,5,4,4,5,5,False,5,4,4,1,2,4,1,1,2,4
+A Beautiful Mind,3,4,3,4,"['unpredictable', 'plot_twists']",['predictable'],4,energized,4,earned,4,4,4,3,3,False,5,4,5,1,2,4,1,1,1,5
+Hera Pheri,4,4,5,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,4,5,5,3,3,False,4,4,5,3,3,2,1,1,1,3
+"Lock, Stock and Two Smoking Barrels",5,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,ambiguous,5,5,4,4,3,False,5,5,4,4,3,3,1,2,1,4
+L.A. Confidential,4,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,4,False,5,4,5,5,3,4,1,1,1,3
+Eskiya,3,4,1,4,"['strong_pacing', 'tight_structure']",['cliche'],4,bittersweet,4,earned,4,5,4,4,3,False,5,5,5,1,1,3,1,1,2,3
+Heat,4,5,1,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,4,4,5,1,1,4,1,1,1,3
+Casino,4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],5,sad,5,earned,5,5,4,5,4,False,5,5,5,5,4,4,2,2,1,3
+Andaz Apna Apna,4,5,4,3,"['unpredictable', 'plot_twists', 'strong_pacing']",['narrative_inconsistency'],5,happy,4,satisfying,4,5,5,3,3,False,4,4,5,3,4,2,1,1,1,3
+Unforgiven,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,4,3,5,1,4,4,1,1,1,3
+Indiana Jones and the Last Crusade,5,3,4,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,satisfying,5,5,4,4,4,False,5,3,5,5,4,2,1,1,1,3
+Dom za vesanje,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,4,4,3,False,5,5,5,1,1,4,1,1,3,4
+Tonari no Totoro,3,5,5,4,"['strong_pacing', 'tight_structure']",[],4,happy,5,satisfying,5,5,5,5,5,False,5,5,5,3,1,1,1,1,1,1
+Die Hard,5,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,3,3,False,4,4,5,1,2,2,1,3,1,3
+Ran,3,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,5,False,5,5,5,1,1,4,1,1,3,3
+Raging Bull,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,4,4,5,1,3,4,1,2,1,3
+Stalker,3,5,1,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,5,ambiguous,5,5,5,5,4,False,5,4,5,1,3,5,2,1,1,4
+Höstsonaten,3,5,1,5,"['tight_structure', 'unpredictable', 'strong_pacing']",[],5,bittersweet,5,earned,5,5,5,5,3,False,4,3,5,1,1,5,1,1,1,5
+The Message,3,4,3,4,"['strong_pacing', 'tight_structure']",[],2,energized,4,satisfying,4,5,4,4,3,False,5,4,4,1,1,4,1,1,2,1
+Sholay,4,4,4,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,4,4,False,5,5,5,1,2,2,1,1,2,3
+Monty Python and the Holy Grail,3,5,3,3,['unpredictable'],"['plot_holes', 'narrative_inconsistency']",5,neutral,2,abrupt,3,5,4,3,2,False,3,4,5,1,4,4,1,1,1,1
+The Great Escape,4,4,4,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,4,3,False,5,4,5,1,2,2,1,1,1,1
+To Kill a Mockingbird,3,5,3,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,4,5,3,3,4,1,1,1,3
+Yôjinbô,4,5,2,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,5,5,5,5,4,False,5,4,5,5,3,3,1,1,1,1
+Judgment at Nuremberg,3,4,1,5,"['tight_structure', 'strong_pacing']",[],5,bittersweet,5,earned,4,5,5,3,3,False,4,3,5,1,3,5,1,1,1,4
+Some Like It Hot,4,5,2,4,"['strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,4,5,5,4,3,False,4,5,5,1,1,1,1,1,1,3
+Smultronstället,3,5,2,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,4,4,5,1,1,5,2,1,1,1
+Det sjunde inseglet,3,5,2,5,"['tight_structure', 'unpredictable']",[],5,bittersweet,5,earned,5,5,5,5,4,False,4,3,5,1,1,5,2,1,1,1
+Du rififi chez les hommes,4,5,1,5,"['strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,4,3,False,4,4,4,1,1,3,1,1,1,5
+Dial M for Murder,4,3,3,5,"['plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,4,4,4,4,3,False,4,3,5,1,1,3,1,1,1,4
+Tôkyô monogatari,3,4,3,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,1,False,4,3,5,1,1,3,1,1,1,1
+Rashômon,3,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,5,False,5,5,5,5,5,5,1,1,1,3
+All About Eve,4,5,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,1,False,4,2,5,4,1,4,1,1,1,2
+The Treasure of the Sierra Madre,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,4,3,5,3,3,4,1,1,1,4
+To Be or Not to Be,5,5,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,4,5,5,4,3,False,3,3,5,1,2,3,1,1,1,5
+The Gold Rush,3,5,5,4,"['strong_pacing', 'tight_structure']",[],4,happy,4,earned,4,5,4,4,4,False,4,4,5,3,2,2,1,1,1,3
+Sherlock Jr.,5,5,5,3,"['strong_pacing', 'tight_structure', 'unpredictable']",['predictable'],1,happy,3,satisfying,5,5,5,5,5,False,1,1,5,1,4,3,1,1,1,1
+Portrait de la jeune fille en feu,3,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,3,False,4,5,5,1,4,4,2,1,1,4
+Pink,4,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,3,3,False,4,3,5,1,2,4,2,1,1,3
+Koe no katachi,3,4,2,4,['tight_structure'],[],4,bittersweet,4,earned,5,5,4,5,4,False,4,4,5,1,1,4,1,1,1,3
+Contratiempo,5,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,5,5,5,3,3,False,4,3,4,1,1,4,1,1,3,5
+Ah-ga-ssi,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,5,4,False,5,4,5,1,1,4,1,1,1,5
+Mommy,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,1,3,1,1,1,2
+Haider,4,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",['narrative_inconsistency'],5,sad,5,earned,5,5,5,5,4,False,5,5,5,5,5,5,3,3,1,3
+Logan,3,4,1,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],4,bittersweet,5,earned,4,5,4,4,3,False,4,4,5,3,3,3,1,1,2,3
+Room,3,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,4,3,5,1,1,4,1,1,1,4
+Relatos salvajes,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,satisfying,4,5,5,3,3,False,5,4,5,4,2,3,1,1,2,3
+Soul,3,4,3,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,4,earned,5,4,4,5,5,False,5,5,4,4,1,3,1,1,1,3
+Kis Uykusu,2,4,1,3,['tight_structure'],['predictable'],5,neutral,4,earned,4,5,4,5,1,False,3,3,5,1,2,5,1,1,1,3
+PK,3,4,4,4,"['plot_twists', 'tight_structure']",['predictable'],4,bittersweet,4,earned,4,5,4,3,3,False,4,4,5,1,5,3,1,1,1,3
+OMG: Oh My God!,4,4,3,4,"['strong_pacing', 'tight_structure']",[],4,energized,4,earned,4,4,4,3,3,False,3,4,4,1,4,4,1,1,1,3
+The Grand Budapest Hotel,5,5,2,4,"['plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,4,False,5,4,5,1,4,3,1,1,1,3
+Gone Girl,4,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,4,False,5,4,5,1,2,4,1,1,1,5
+Ôkami kodomo no Ame to Yuki,3,4,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,4,False,5,5,5,1,1,3,1,1,3,3
+Hacksaw Ridge,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['cliche'],3,energized,5,satisfying,5,5,4,4,4,False,4,3,4,1,1,2,1,5,1,3
+Inside Out,4,5,5,5,"['strong_pacing', 'tight_structure', 'unpredictable']",[],4,bittersweet,5,earned,5,5,5,5,5,False,5,4,5,5,2,3,1,1,1,4
+Barfi!,4,4,5,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['predictable'],3,bittersweet,4,satisfying,4,4,4,5,4,False,5,5,5,1,2,3,1,1,1,3
+12 Years a Slave,3,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,5,5,4,False,4,4,5,5,1,4,1,1,3,3
+Rush,4,3,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,4,False,4,4,5,1,1,3,2,3,1,3
+Ford v Ferrari,4,3,3,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,5,4,4,5,5,False,4,4,5,4,2,3,3,1,1,3
+Spotlight,4,3,1,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,satisfying,4,5,5,3,3,False,4,3,5,1,1,4,2,1,1,3
+Song of the Sea,3,4,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,4,False,5,5,4,1,3,3,1,1,1,3
+Kahaani,5,4,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],3,energized,5,earned,4,5,4,3,3,False,4,3,5,1,1,4,1,1,1,5
+Zindagi Na Milegi Dobara,3,4,4,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,energized,4,satisfying,4,4,4,5,3,False,4,5,4,4,2,2,1,1,1,3
+Prisoners,4,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,neutral,4,ambiguous,5,5,5,5,4,False,5,3,5,1,1,4,1,1,1,3
+Mad Max: Fury Road,5,5,1,4,"['strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,5,5,5,5,5,False,5,5,4,2,3,1,1,5,3,4
+A Wednesday,5,4,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,4,3,3,False,4,3,5,1,2,4,1,1,1,4
+Gran Torino,3,4,1,3,"['tight_structure', 'unpredictable']","['predictable', 'cliche']",4,bittersweet,4,earned,4,5,4,3,3,False,3,3,4,1,2,3,1,1,1,3
+Harry Potter and the Deathly Hallows: Part 2,4,2,3,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,satisfying,4,5,4,4,5,False,4,4,4,5,5,3,1,3,2,3
+Okuribito,4,5,4,5,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,3,False,5,5,5,1,1,3,1,1,1,3
+Hachi: A Dog's Tale,3,2,4,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",2,bittersweet,4,earned,4,4,4,3,3,False,4,3,4,1,1,1,1,1,1,3
+Mary and Max,3,5,2,4,"['unpredictable', 'tight_structure', 'strong_pacing']",[],4,bittersweet,4,earned,4,5,4,5,5,False,4,4,5,1,2,4,1,1,1,3
+How to Train Your Dragon,4,4,5,4,"['strong_pacing', 'tight_structure', 'plot_twists']",[],4,bittersweet,5,earned,5,5,4,5,5,False,5,5,4,4,3,3,1,1,2,3
+Into the Wild,3,4,2,4,['tight_structure'],['predictable'],4,bittersweet,4,earned,5,5,4,5,4,False,5,5,5,1,1,3,1,1,3,2
+No Country for Old Men,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,neutral,5,ambiguous,5,5,5,5,4,False,5,1,5,1,1,5,1,1,3,3
+Lage Raho Munna Bhai,4,5,5,4,"['strong_pacing', 'tight_structure']",[],5,energized,5,earned,4,5,4,3,3,False,4,4,5,5,5,3,1,1,1,3
+Million Dollar Baby,3,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,3,False,4,3,5,1,1,4,1,1,1,5
+Hotel Rwanda,4,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,3,False,4,3,5,1,1,4,1,3,1,2
+Taegukgi hwinalrimyeo,4,3,1,4,"['plot_twists', 'strong_pacing']",['predictable'],3,bittersweet,4,earned,4,4,4,4,4,False,4,3,4,1,1,2,1,3,1,3
+Before Sunset,3,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,ambiguous,5,5,4,3,1,False,4,4,5,5,5,4,1,1,1,3
+Munna Bhai M.B.B.S.,4,4,4,4,"['strong_pacing', 'tight_structure']",['predictable'],4,happy,4,earned,4,5,4,3,3,False,4,4,5,3,3,2,1,1,1,3
+Salinui chueok,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,ambiguous,5,5,5,4,3,False,4,3,5,1,3,3,1,1,1,3
+Dil Chahta Hai,3,4,3,4,['tight_structure'],[],5,happy,4,earned,4,5,4,4,3,False,5,5,4,1,2,2,1,1,1,2
+Kill Bill: Vol. 1,4,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],4,energized,4,satisfying,5,5,5,5,4,False,5,5,5,3,5,3,1,4,1,3
+Finding Nemo,4,4,5,4,"['strong_pacing', 'tight_structure']",[],4,happy,4,earned,4,4,4,5,5,False,4,3,4,3,3,2,1,1,2,3
+Catch Me If You Can,4,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,4,4,4,4,False,4,4,5,4,2,3,1,1,1,3
+Amores perros,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,5,4,3,False,4,4,5,5,2,4,1,1,5,5
+"Monsters, Inc.",4,5,5,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,4,5,5,False,5,5,5,5,3,2,1,1,1,3
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",4,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,5,earned,5,5,5,5,5,False,5,5,5,5,5,5,4,5,1,5
+Lagaan: Once Upon a Time in India,2,4,5,4,"['unpredictable', 'strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,energized,5,satisfying,5,5,4,4,3,False,5,5,4,1,2,2,1,1,1,3
+The Sixth Sense,4,5,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,4,5,1,1,3,1,1,1,5
+La leggenda del pianista sull'oceano,2,5,3,3,['tight_structure'],"['predictable', 'cliche']",4,bittersweet,5,earned,3,4,4,5,4,False,5,5,5,1,1,4,1,1,1,3
+The Truman Show,4,5,4,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,satisfying,5,5,5,4,4,False,5,4,5,5,3,4,1,1,1,3
+"Crna macka, beli macor",4,5,2,4,"['unpredictable', 'plot_twists', 'strong_pacing']","['plot_holes', 'narrative_inconsistency']",4,energized,4,satisfying,5,5,4,4,3,False,5,5,4,1,4,3,1,2,3,2
+The Big Lebowski,3,5,1,3,['unpredictable'],"['plot_holes', 'narrative_inconsistency']",5,neutral,4,satisfying,5,5,5,4,3,False,5,5,5,1,3,3,1,1,1,3
+Fa yeung nin wah,3,5,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,satisfying,5,5,5,5,4,False,5,5,5,1,2,4,1,1,1,3
+Trainspotting,5,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,4,False,4,5,5,1,3,3,1,2,1,3
+Fargo,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,1,2,3,1,1,1,3
+Underground,2,5,1,4,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,4,earned,5,5,4,4,3,False,5,5,4,1,5,5,2,2,2,3
+La haine,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,3,False,4,5,5,1,2,3,1,2,1,4
+Dilwale Dulhania Le Jayenge,3,3,5,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",5,happy,5,earned,4,5,5,4,3,False,5,5,5,1,1,1,1,1,1,1
+Before Sunrise,3,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,ambiguous,5,5,5,4,3,False,4,4,5,5,3,4,1,1,1,2
+Trois couleurs: Rouge,4,5,2,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,5,4,5,2,1,1,1
+Chung Hing sam lam,3,5,2,4,"['unpredictable', 'strong_pacing']",[],5,energized,4,earned,5,5,5,5,4,False,5,5,5,3,2,3,1,2,1,2
+Jurassic Park,5,5,4,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,energized,4,satisfying,5,5,5,5,5,False,5,5,4,3,3,3,1,2,4,3
+In the Name of the Father,4,3,1,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,satisfying,5,5,5,4,3,False,4,5,5,1,5,4,1,1,1,3
+Ba wang bie ji,4,5,1,5,"['strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,5,False,5,5,5,5,5,4,3,1,1,5
+Dà hóng denglong gaogao guà,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,4,5,4,False,4,4,5,1,1,4,1,1,1,3
+Dead Poets Society,3,3,4,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,5,earned,4,5,4,3,3,False,4,4,5,3,3,3,1,1,1,3
+Stand by Me,3,4,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,4,5,5,1,2,2,1,1,1,2
+Platoon,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,4,False,5,4,5,1,4,4,1,1,4,3
+"Paris, Texas",3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,5,earned,5,5,5,5,3,False,5,5,5,1,1,3,1,1,1,5
+Kaze no tani no Naushika,3,5,4,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,5,5,4,5,4,False,5,4,4,4,4,4,1,1,4,3
+The Thing,3,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,ambiguous,5,5,5,4,5,False,5,5,4,1,1,3,1,1,5,4
+Pink Floyd: The Wall,3,5,1,4,"['unpredictable', 'tight_structure']",[],2,bittersweet,5,earned,5,5,5,5,5,False,5,5,4,1,4,5,2,4,1,3
+Fitzcarraldo,3,5,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,bittersweet,4,earned,5,5,4,5,4,False,4,4,5,1,1,4,1,1,2,3
+Fanny och Alexander,2,5,1,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,4,4,5,1,4,5,1,1,1,3
+Blade Runner,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']","['predictable', 'narrative_inconsistency']",4,bittersweet,4,ambiguous,5,5,5,5,5,False,5,5,4,4,4,4,1,2,1,3
+The Elephant Man,3,4,2,4,"['strong_pacing', 'tight_structure']",[],3,bittersweet,5,earned,5,5,4,5,5,False,4,3,5,1,1,3,1,1,1,3
+Life of Brian,4,5,2,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,5,satisfying,4,5,5,3,3,False,3,5,5,1,5,3,1,1,1,2
+The Deer Hunter,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,5,5,5,4,4,False,5,4,5,1,1,4,1,4,3,3
+Rocky,3,4,3,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,5,earned,4,5,4,3,3,False,5,5,5,3,1,2,1,1,1,4
+Network,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,disappointed,5,earned,4,5,5,3,2,False,3,2,5,1,2,4,2,1,1,4
+Barry Lyndon,2,4,2,4,"['tight_structure', 'unpredictable']","['predictable', 'cliche']",3,sad,4,earned,5,5,4,5,4,False,5,5,4,1,1,4,1,1,3,3
+Zerkalo,3,5,2,4,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,5,earned,5,5,5,5,4,False,5,5,4,4,5,5,4,1,2,1
+Chinatown,3,4,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,4,False,5,4,5,1,1,3,1,1,1,5
+Paper Moon,3,4,3,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,4,4,5,3,False,4,4,5,1,2,3,1,1,1,1
+Viskningar och rop,3,5,1,4,['tight_structure'],[],4,bittersweet,5,earned,5,5,4,5,1,False,4,4,5,1,1,5,1,1,1,4
+Solaris,2,5,2,4,['unpredictable'],[],4,bittersweet,5,ambiguous,5,5,5,5,4,False,5,4,4,1,4,5,2,1,1,4
+Le samouraï,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,4,3,5,1,1,3,1,1,1,3
+Cool Hand Luke,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,4,3,False,5,3,5,1,1,3,1,1,3,3
+Persona,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,neutral,5,ambiguous,5,5,5,5,4,False,4,3,5,1,4,5,4,4,1,1
+Andrei Rublev,2,5,1,4,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,5,earned,5,5,4,5,3,False,4,3,5,4,5,5,4,1,5,1
+La battaglia di Algeri,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,3,False,5,4,5,1,4,4,2,1,1,3
+El ángel exterminador,3,5,1,5,"['unpredictable', 'tight_structure']",[],4,sad,5,earned,5,5,5,4,1,False,3,1,4,1,4,5,2,1,2,3
+What Ever Happened to Baby Jane?,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,4,4,3,False,4,4,5,3,2,4,1,1,2,5
+Sanjuro,3,3,3,4,"['strong_pacing', 'tight_structure', 'plot_twists']",[],4,bittersweet,5,earned,4,4,4,5,4,False,4,4,5,3,2,2,1,1,1,3
+The Man Who Shot Liberty Valance,3,4,3,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,4,3,False,4,3,5,3,4,3,1,1,2,5
+Ivanovo detstvo,3,5,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,sad,5,earned,5,5,5,5,3,False,4,3,5,1,2,4,2,1,1,3
+Jungfrukällan,3,4,1,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,5,earned,5,5,4,5,1,False,4,2,5,1,4,4,1,1,5,3
+Inherit the Wind,3,3,3,4,"['tight_structure', 'strong_pacing']",[],5,bittersweet,4,earned,4,5,4,3,3,False,4,3,5,1,1,4,2,1,1,3
+Les quatre cents coups,3,5,2,4,"['unpredictable', 'strong_pacing']",[],4,bittersweet,5,ambiguous,4,5,5,4,3,False,4,3,5,4,3,3,1,1,1,2
+Ben-Hur,2,4,3,4,"['strong_pacing', 'tight_structure']",['predictable'],2,happy,4,earned,5,5,4,5,5,False,5,5,4,1,1,2,1,1,3,1
+Kakushi-toride no san-akunin,3,5,4,4,"['strong_pacing', 'tight_structure']",[],3,happy,4,earned,4,5,4,5,3,False,4,3,5,1,1,2,1,1,2,1
+Le notti di Cabiria,3,4,1,4,['unpredictable'],[],4,bittersweet,5,earned,4,5,4,4,3,False,5,4,5,3,3,4,1,1,1,3
+Kumonosu-jô,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,4,False,4,4,5,1,4,4,1,1,3,4
+The Bridge on the River Kwai,3,4,3,4,"['tight_structure', 'strong_pacing']",[],4,sad,4,earned,5,5,4,5,4,False,5,4,5,1,1,4,1,1,1,3
+On the Waterfront,3,4,2,4,"['strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,5,earned,4,5,4,4,3,False,5,3,5,1,1,4,1,1,1,2
+Le salaire de la peur,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,4,4,False,4,3,5,1,1,3,1,1,2,5
+Ace in the Hole,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,4,earned,4,5,4,4,3,False,4,3,5,1,2,3,1,1,1,3
+White Heat,5,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,4,5,5,3,3,False,4,3,5,1,1,2,1,1,1,4
+The Third Man,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,4,2,3,1,1,1,5
+The Red Shoes,3,5,2,4,"['strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,5,False,5,5,4,1,1,4,2,1,1,3
+The Shop Around the Corner,4,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,4,5,4,3,1,False,4,3,5,1,1,1,1,1,1,3
+Rebecca,3,3,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,4,3,False,5,3,5,1,1,4,1,1,1,5
+Mr. Smith Goes to Washington,3,4,3,4,"['strong_pacing', 'tight_structure']",[],4,happy,4,earned,4,5,4,3,2,False,4,3,5,5,3,3,1,1,1,3
+Gone with the Wind,2,3,2,4,"['unpredictable', 'tight_structure']","['cliche', 'narrative_inconsistency']",4,bittersweet,4,ambiguous,4,5,4,5,4,False,5,5,5,1,3,3,1,1,1,2
+La Grande Illusion,3,5,3,5,"['tight_structure', 'unpredictable', 'strong_pacing']",[],5,bittersweet,5,earned,5,5,5,4,1,False,4,3,5,1,3,3,1,1,1,3
+It Happened One Night,4,4,3,4,"['strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,4,5,4,3,3,False,3,3,5,3,3,2,1,1,1,3
+La passion de Jeanne d'Arc,2,5,2,5,"['tight_structure', 'strong_pacing']",[],2,sad,5,earned,5,5,5,5,1,False,1,1,5,1,1,4,1,1,1,1
+The Circus,4,5,5,4,"['strong_pacing', 'tight_structure']",[],1,bittersweet,5,earned,4,4,4,4,4,False,5,1,5,1,4,1,1,1,1,1
+Sunrise: A Song of Two Humans,3,5,3,5,"['tight_structure', 'strong_pacing']",[],3,happy,5,satisfying,5,5,5,5,5,False,3,3,5,1,1,3,1,1,1,1
+The General,4,5,5,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,happy,5,satisfying,5,5,5,5,5,False,4,1,5,1,1,3,1,1,1,1
+Das Cabinet des Dr. Caligari,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],2,neutral,5,ambiguous,5,5,5,5,5,False,4,1,4,1,1,4,3,1,1,5
+Badhaai ho,4,4,4,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,happy,4,satisfying,4,4,4,3,3,False,3,4,5,4,2,2,1,1,1,3
+Togo,4,3,4,4,"['strong_pacing', 'tight_structure']",[],3,bittersweet,4,satisfying,4,4,4,5,4,False,4,4,4,1,2,2,1,1,1,3
+Airlift,4,3,4,3,"['strong_pacing', 'tight_structure']",['predictable'],4,energized,3,satisfying,4,4,3,3,3,False,4,4,4,1,2,2,1,2,1,3
+Bajrangi Bhaijaan,3,4,5,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,5,earned,4,5,4,4,3,False,4,4,5,3,2,2,1,1,1,3
+Baby,3,3,2,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,4,earned,4,4,3,3,3,False,4,5,5,1,1,2,1,1,1,3
+La La Land,3,3,4,4,"['tight_structure', 'plot_twists']",['predictable'],3,bittersweet,5,earned,4,4,4,5,4,False,5,5,4,1,5,2,1,1,1,3
+Lion,3,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,bittersweet,5,satisfying,4,4,4,4,3,False,5,4,5,1,1,2,1,1,1,3
+The Martian,4,4,4,4,"['strong_pacing', 'tight_structure']",['predictable'],4,energized,4,satisfying,4,4,4,5,5,False,4,4,4,4,2,3,3,1,1,3
+Zootopia,4,4,5,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,happy,4,satisfying,5,4,4,5,5,False,4,4,5,3,3,3,1,1,2,3
+Bãhubali: The Beginning,3,4,4,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,energized,2,ambiguous,4,5,4,4,4,False,5,4,4,4,4,2,1,2,2,4
+Kaguyahime no monogatari,3,4,3,4,"['tight_structure', 'strong_pacing']",[],4,bittersweet,5,earned,5,5,4,5,5,False,5,4,5,1,1,3,1,1,1,3
+Wonder,3,3,5,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,happy,4,earned,4,4,4,3,4,False,3,3,4,4,1,2,1,1,1,3
+Gully Boy,4,4,3,4,"[""strong_pacing"", ""tight_structure"", ""unpredictable""]","[""cliche""]",4,energized,4,earned,4,4,4,4,3,False,5,5,5,1,1,2,1,1,1,2
+Special Chabbis,4,4,3,4,"[""unpredictable"", ""plot_twists"", ""tight_structure""]",[],4,energized,5,earned,4,3,4,3,3,False,4,3,5,1,1,3,1,1,1,2
+Short Term 12,4,4,1,4,"[""unpredictable"", ""strong_pacing"", ""tight_structure""]",[],5,bittersweet,4,earned,5,5,4,4,5,False,4,4,5,1,1,3,1,1,1,2
+Serbuan maut 2: Berandal,4,4,1,4,"[""unpredictable"", ""plot_twists"", ""strong_pacing""]","[""cliche""]",3,neutral,5,earned,5,5,5,5,4,False,4,3,4,2,1,3,1,2,1,2
+The Imitation Game,4,3,3,4,"[""strong_pacing"", ""tight_structure""]",[],4,bittersweet,4,earned,4,4,4,3,4,False,5,3,5,1,1,3,2,1,1,2
+Guardians of the Galaxy,4,4,4,3,"[""strong_pacing"", ""tight_structure""]","[""predictable"", ""cliche""]",5,energized,4,earned,4,4,4,4,5,False,4,5,5,2,2,1,1,2,1,2
+Blade Runner 2049,3,4,1,4,"[""unpredictable"", ""plot_twists"", ""tight_structure""]",[],4,bittersweet,4,earned,5,5,4,5,5,False,5,4,5,4,1,5,1,1,2,1
+Her,3,5,2,4,"[""unpredictable"", ""strong_pacing"", ""tight_structure""]",[],5,bittersweet,4,earned,5,5,4,5,4,False,5,5,5,1,1,3,1,1,1,1
+Bohemian Rhapsody,3,2,3,2,"[""strong_pacing""]","[""predictable"", ""cliche""]",2,energized,4,satisfying,4,3,3,4,4,False,5,5,5,1,1,1,1,2,1,2
+The Revenant,3,4,1,3,"[""strong_pacing"", ""tight_structure""]","[""predictable"", ""cliche""]",2,bittersweet,4,earned,5,5,4,5,5,False,4,3,5,1,1,3,1,1,5,2
+The Perks of Being a Wallflower,4,4,2,4,"[""unpredictable"", ""strong_pacing"", ""tight_structure""]",[],5,bittersweet,5,earned,4,5,4,3,3,False,4,5,5,1,2,3,1,1,1,2
+Tropa de Elite 2: O Inimigo Agora é Outro,5,4,1,5,"[""unpredictable"", ""strong_pacing"", ""tight_structure""]",[],5,energized,5,earned,5,5,5,4,4,False,4,4,5,4,1,4,1,1,1,2
+The King's Speech,3,3,3,4,"[""strong_pacing"", ""tight_structure""]",[],4,energized,4,earned,4,4,4,3,4,False,4,3,5,1,1,2,1,1,1,2
+The Help,3,3,2,3,"[""strong_pacing"", ""tight_structure""]","[""predictable"", ""cliche""]",4,bittersweet,3,earned,4,4,3,3,3,False,3,3,5,1,1,1,1,1,1,2
+Deadpool,5,4,1,3,"[""strong_pacing""]","[""predictable"", ""cliche""]",5,happy,4,earned,2,4,4,3,3,False,3,5,5,2,5,1,1,2,1,1
+Darbareye Elly,4,5,1,5,"[""unpredictable"", ""plot_twists"", ""strong_pacing"", ""tight_structure""]",[],4,sad,5,earned,5,5,5,4,5,False,4,1,5,1,1,4,1,1,1,2
+Dev.D,4,5,1,4,"[""unpredictable"", ""strong_pacing"", ""tight_structure""]",[],4,bittersweet,4,earned,5,5,4,4,3,False,5,5,5,1,2,4,1,1,1,2
+Yip Man,4,3,2,4,"[""strong_pacing"", ""tight_structure""]","[""predictable"", ""cliche""]",3,bittersweet,4,earned,4,4,4,4,4,False,4,3,4,1,1,2,1,1,1,2
+My Name Is Khan,3,4,3,3,['tight_structure'],"['predictable', 'narrative_inconsistency']",3,energized,4,earned,4,4,4,4,3,False,4,4,5,3,2,3,1,1,1,3
+Nefes: Vatan Sagolsun,4,3,1,4,"[""strong_pacing"", ""tight_structure""]",[],4,bittersweet,4,earned,5,5,4,4,3,False,4,3,4,1,1,3,1,2,1,2
+Slumdog Millionaire,4,4,2,4,"[""unpredictable"", ""strong_pacing"", ""tight_structure""]",[],3,happy,4,satisfying,4,4,4,4,4,False,5,5,4,1,1,2,1,1,4,2
+Black Swan,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,1,4,2,3,1,3
+Tropa de Elite,5,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,4,4,3,False,4,4,5,3,4,4,2,3,1,3
+The Avengers,4,4,4,4,"['strong_pacing', 'tight_structure']",[],5,energized,4,satisfying,4,5,4,4,4,False,4,3,4,5,5,2,1,2,1,3
+Persepolis,4,5,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,5,4,False,4,4,4,4,5,4,1,1,1,3
+Dallas Buyers Club,3,4,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,3,1,False,3,3,5,1,1,3,1,1,1,3
+The Pursuit of Happyness,3,3,4,4,"['strong_pacing', 'tight_structure']",['predictable'],4,happy,5,earned,4,4,4,3,3,False,3,3,5,1,1,2,1,1,1,3
+Blood Diamond,4,3,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,5,5,4,5,4,False,4,4,5,5,5,4,1,3,1,4
+The Bourne Ultimatum,5,4,2,4,"['plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,4,False,5,5,5,5,5,3,1,2,1,3
+Bin-jip,3,5,3,4,"['tight_structure', 'unpredictable']",[],2,bittersweet,4,ambiguous,4,4,4,4,3,False,4,4,4,3,3,4,1,1,1,4
+Sin City,5,5,1,4,"['plot_twists', 'strong_pacing', 'tight_structure']",['cliche'],5,bittersweet,4,satisfying,5,5,4,5,5,False,4,4,4,3,3,3,1,3,1,3
+Le scaphandre et le papillon,3,5,2,4,"['tight_structure', 'unpredictable']",[],4,bittersweet,4,earned,5,5,5,4,3,False,4,3,5,1,1,4,1,1,1,3
+G.O.R.A.,3,3,2,3,"['unpredictable', 'strong_pacing']","['cliche', 'predictable']",4,happy,4,satisfying,3,3,3,3,3,False,3,3,4,3,5,2,1,1,1,3
+Ratatouille,5,5,5,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,5,earned,5,5,5,5,5,False,5,4,5,1,3,3,1,1,1,4
+Casino Royale,4,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,4,4,False,4,4,5,3,2,3,1,1,1,3
+Kill Bill: Vol. 2,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,4,satisfying,4,5,4,4,3,False,5,5,5,5,5,3,1,2,1,2
+Vozvrashchenie,3,4,2,4,"['tight_structure', 'unpredictable']",[],4,sad,5,earned,5,5,4,5,4,False,4,4,5,4,2,4,2,1,2,4
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,3,5,2,4,"['strong_pacing', 'tight_structure']",[],2,bittersweet,4,earned,5,5,4,5,3,False,4,3,4,1,1,5,1,1,3,3
+Mar adentro,3,4,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,4,4,3,False,4,4,5,1,2,4,1,1,1,3
+Cinderella Man,3,2,3,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,energized,4,earned,4,3,3,3,3,False,4,3,4,1,3,2,1,1,1,3
+Kal Ho Naa Ho,3,3,4,4,"['strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,5,earned,4,5,4,4,3,False,5,5,5,1,2,2,1,1,1,3
+Mou gaan dou,5,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,satisfying,5,5,5,4,3,False,5,4,5,3,2,4,1,1,1,4
+Pirates of the Caribbean: The Curse of the Black Pearl,4,4,4,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,4,earned,5,5,4,5,5,False,5,5,5,3,2,2,1,1,1,3
+Big Fish,3,5,4,4,"['unpredictable', 'tight_structure']",['cliche'],4,bittersweet,5,earned,5,5,5,5,4,False,4,4,5,1,2,3,1,1,1,3
+The Incredibles,5,4,5,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,4,satisfying,5,5,4,5,5,False,5,5,5,4,3,3,1,1,1,4
+Yeopgijeogin geunyeo,3,5,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,5,earned,4,5,4,3,3,False,4,4,5,1,2,2,1,1,1,3
+Dogville,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,4,5,4,4,3,False,4,4,5,2,4,5,2,1,1,5
+Vizontele,3,4,4,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",5,bittersweet,4,earned,5,5,4,4,3,False,4,4,5,1,4,3,1,1,1,2
+Donnie Darko,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,5,earned,5,5,4,4,3,False,5,5,4,1,4,5,3,2,1,4
+Magnolia,3,5,1,4,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],5,bittersweet,4,ambiguous,5,5,4,4,4,False,5,5,5,1,2,4,1,2,3,3
+Dancer in the Dark,2,5,1,4,"['unpredictable', 'tight_structure']",[],4,sad,5,earned,5,5,4,4,3,False,5,5,5,1,1,4,2,1,1,5
+The Straight Story,3,5,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,4,4,4,4,3,False,5,4,5,1,1,2,1,1,1,3
+Pâfekuto burû,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,4,False,5,4,5,1,2,5,1,4,1,5
+Festen,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,2,1,True,1,1,5,1,1,4,1,1,1,5
+Central do Brasil,3,4,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,3,False,4,4,5,1,1,3,1,1,1,3
+The Iron Giant,4,5,5,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,5,False,5,4,5,1,2,3,1,1,1,5
+Knockin' on Heaven's Door,3,3,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,3,3,False,4,5,4,1,2,2,1,1,1,3
+Sling Blade,3,4,1,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,5,earned,4,5,4,3,3,False,4,3,5,1,1,3,1,1,1,3
+Secrets & Lies,3,4,2,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,4,earned,5,4,4,3,1,False,3,1,5,1,1,3,1,1,1,3
+Twelve Monkeys,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,sad,4,earned,4,5,4,4,3,False,4,3,5,1,2,5,1,1,1,3
+Kôkaku Kidôtai,3,5,1,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,5,ambiguous,5,5,5,5,5,False,5,5,4,3,3,5,4,1,1,3
+The Nightmare Before Christmas,4,5,4,4,"['strong_pacing', 'tight_structure']",['predictable'],4,happy,4,satisfying,5,5,4,5,5,False,5,5,4,1,2,3,1,1,1,4
+Groundhog Day,4,5,4,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,5,5,5,3,3,False,4,4,5,1,2,3,1,1,1,3
+Bound by Honor,3,3,1,4,"['unpredictable', 'plot_twists', 'tight_structure']","['cliche', 'predictable']",4,bittersweet,4,satisfying,4,4,4,3,3,False,4,3,4,4,4,4,1,1,1,3
+Scent of a Woman,3,3,2,4,"['tight_structure', 'unpredictable', 'strong_pacing']",['predictable'],5,happy,5,earned,4,5,4,3,3,False,4,5,5,1,1,3,1,1,1,3
+Aladdin,3,2,5,3,['tight_structure'],"['predictable', 'narrative_inconsistency']",3,happy,4,satisfying,4,3,3,4,4,False,4,4,4,3,3,2,1,2,1,3
+JFK,4,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",['narrative_inconsistency'],5,energized,4,earned,5,5,4,4,3,False,5,4,5,5,5,5,3,4,1,1
+Beauty and the Beast,4,3,5,4,"['strong_pacing', 'tight_structure']",[],4,happy,5,satisfying,5,5,4,5,5,False,5,5,5,1,2,1,1,1,1,2
+Dances with Wolves,3,4,3,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,4,satisfying,5,5,4,5,4,False,5,4,4,1,2,4,1,1,3,2
+Do the Right Thing,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,4,False,4,5,5,1,5,4,1,1,1,3
+Rain Man,3,4,3,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,4,5,4,3,3,False,4,3,5,1,1,3,1,1,1,3
+Akira,4,5,1,4,"['unpredictable', 'strong_pacing']",['narrative_inconsistency'],3,bittersweet,3,ambiguous,5,5,4,5,5,False,5,5,4,1,2,4,2,4,2,3
+The Princess Bride,5,5,5,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,4,5,5,3,3,False,4,4,5,1,3,1,1,1,1,1
+Der Himmel über Berlin,3,5,1,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,4,False,5,4,4,1,4,5,1,1,1,3
+Au revoir les enfants,3,3,2,4,"['tight_structure', 'strong_pacing']",[],4,bittersweet,5,earned,4,5,4,3,3,False,3,3,4,1,1,3,1,1,1,2
+Tenkû no shiro Rapyuta,4,5,5,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,5,5,4,5,4,False,5,4,4,4,2,3,1,2,1,1
+The Terminator,5,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,satisfying,5,5,5,4,4,False,5,4,5,3,2,2,1,2,1,3
+Gandhi,3,4,3,4,['tight_structure'],['predictable'],4,bittersweet,4,earned,4,5,4,4,3,False,4,3,5,1,4,4,1,1,1,2
+Kagemusha,3,4,2,4,"['strong_pacing', 'tight_structure']",[],4,sad,4,earned,5,5,4,5,4,False,4,4,5,1,4,4,2,1,3,3
+Being There,3,5,3,5,"['unpredictable', 'tight_structure']",[],5,neutral,5,ambiguous,4,5,5,4,3,False,4,3,5,1,2,3,1,1,1,4
+Annie Hall,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,5,3,3,False,4,4,5,3,5,4,2,1,1,3
+Jaws,4,5,2,5,"['strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,4,4,False,5,1,5,4,1,2,1,1,5,1
+Dog Day Afternoon,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,4,False,4,3,5,1,2,3,1,1,1,2
+Young Frankenstein,5,5,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,5,5,5,5,4,False,5,4,5,1,5,3,1,1,1,3
+Papillon,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,bittersweet,5,satisfying,4,5,4,4,3,False,5,3,5,1,1,3,1,1,3,3
+The Exorcist,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,5,False,5,4,5,1,2,3,1,3,1,5
+Sleuth,3,4,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,sad,4,earned,4,4,4,3,1,False,4,3,5,1,2,4,1,1,1,5
+The Last Picture Show,3,4,1,4,"['tight_structure', 'unpredictable']",[],5,bittersweet,5,earned,5,5,5,5,1,False,4,4,5,1,3,3,1,1,1,3
+Fiddler on the Roof,3,4,4,4,['tight_structure'],['predictable'],4,bittersweet,4,earned,4,5,4,4,3,False,4,5,5,4,4,3,1,1,1,3
+Il conformista,3,5,1,5,"['unpredictable', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,5,False,5,4,5,1,4,5,4,1,1,3
+Butch Cassidy and the Sundance Kid,3,4,3,4,"['unpredictable', 'tight_structure']",['predictable'],5,bittersweet,5,earned,4,5,4,4,3,False,5,5,5,1,1,3,1,1,2,3
+Rosemary's Baby,3,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,3,False,5,5,5,1,1,3,1,1,1,5
+Planet of the Apes,3,5,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,disappointed,5,earned,4,5,4,4,4,False,5,3,4,3,2,4,1,1,1,5
+The Graduate,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,ambiguous,4,5,4,4,3,False,5,5,5,4,1,3,1,1,1,3
+Who's Afraid of Virginia Woolf?,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,1,False,4,1,5,1,4,4,1,1,1,3
+The Sound of Music,2,3,5,4,"['strong_pacing', 'tight_structure']",['predictable'],3,energized,4,satisfying,4,5,4,5,3,False,5,5,4,1,2,2,1,1,1,3
+Doctor Zhivago,3,3,3,4,['strong_pacing'],"['predictable', 'cliche']",4,bittersweet,4,earned,5,5,4,5,4,False,5,5,4,1,3,4,1,1,1,3
+Per un pugno di dollari,3,4,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,energized,5,satisfying,4,5,4,4,3,False,5,5,4,1,2,3,1,1,3,3
+8½,3,5,1,4,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,1,5,5,4,1,1,1
+Vivre sa vie: Film en douze tableaux,3,5,1,4,"['tight_structure', 'unpredictable', 'strong_pacing']",['narrative_inconsistency'],4,sad,4,abrupt,4,5,4,5,1,False,4,4,5,1,5,5,4,1,1,1
+The Hustler,3,4,1,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,4,5,3,False,4,3,5,1,2,3,1,1,1,3
+La dolce vita,2,5,1,4,"['unpredictable', 'tight_structure']",['predictable'],4,sad,4,ambiguous,5,5,4,5,4,False,5,4,5,1,3,4,2,1,1,3
+Rio Bravo,3,3,3,4,"['strong_pacing', 'tight_structure']",['predictable'],5,happy,4,satisfying,4,5,4,3,3,False,4,5,5,1,1,2,1,1,1,1
+Anatomy of a Murder,3,4,1,4,"['plot_twists', 'tight_structure']",[],5,neutral,4,satisfying,4,5,4,4,3,False,5,5,5,1,1,4,3,1,1,3
+Touch of Evil,4,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,5,1,4,2,1,1,3
+Cat on a Hot Tin Roof,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['narrative_inconsistency'],5,bittersweet,3,satisfying,4,5,4,4,3,False,4,3,5,1,2,3,1,1,1,3
+Sweet Smell of Success,4,5,1,5,"['strong_pacing', 'tight_structure']",[],5,neutral,5,earned,5,5,5,5,3,False,5,3,5,1,1,4,1,1,1,3
+The Killing,4,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,disappointed,5,earned,4,5,4,4,3,False,4,3,4,1,1,3,1,1,1,4
+The Night of the Hunter,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,5,5,3,False,4,5,5,1,4,3,1,1,1,5
+La Strada,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,4,2,False,5,5,5,1,1,4,2,1,1,1
+Les diaboliques,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,earned,5,5,5,4,3,False,4,3,5,1,1,4,1,1,1,5
+Stalag 17,4,4,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,4,satisfying,4,4,4,3,3,False,3,3,5,1,1,3,1,1,1,1
+Roman Holiday,3,4,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,4,4,3,False,4,3,5,1,1,1,1,1,1,3
+A Streetcar Named Desire,3,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,5,3,False,5,4,5,1,1,4,1,1,1,1
+In a Lonely Place,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,4,5,4,3,3,False,4,4,5,1,2,4,1,1,1,5
+Kind Hearts and Coronets,3,5,2,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,5,ambiguous,4,5,5,3,2,False,3,2,5,1,1,3,1,1,1,2
+Rope,3,5,1,4,"['strong_pacing', 'tight_structure']",[],4,neutral,4,satisfying,4,5,4,4,1,False,3,1,4,1,2,3,2,1,1,3
+Out of the Past,4,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,4,4,5,1,1,3,1,1,1,4
+Brief Encounter,3,4,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,5,5,1,1,3,1,1,1,3
+Laura,3,5,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,4,earned,5,5,4,5,3,False,5,5,5,1,1,3,1,1,1,5
+The Best Years of Our Lives,3,4,3,5,"['strong_pacing', 'tight_structure', 'unpredictable']",[],5,bittersweet,4,earned,5,5,5,3,1,False,4,1,5,1,2,4,1,1,1,3
+Arsenic and Old Lace,4,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,4,satisfying,4,4,4,3,1,False,3,1,5,1,1,3,1,1,1,5
+The Maltese Falcon,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,5,4,3,False,4,3,5,1,2,3,1,1,1,1
+The Grapes of Wrath,3,4,2,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,1,1,4,1,1,2,3
+The Wizard of Oz,3,5,5,4,"['unpredictable', 'plot_twists', 'tight_structure']","['predictable', 'cliche']",4,happy,4,satisfying,5,5,5,5,5,False,5,5,5,1,1,2,1,1,1,1
+La règle du jeu,3,5,2,5,"['unpredictable', 'tight_structure']",[],5,sad,5,earned,4,5,5,5,3,False,3,3,5,1,2,4,2,1,5,4
+The Thin Man,3,4,2,4,"['plot_twists', 'tight_structure']",['predictable'],5,happy,4,satisfying,4,5,4,3,1,False,3,3,5,1,1,3,1,1,1,1
+All Quiet on the Western Front,4,3,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,sad,5,earned,5,5,5,5,5,False,4,2,5,5,3,3,1,4,5,3
+Bronenosets Potemkin,4,5,1,4,"['strong_pacing', 'tight_structure']",[],3,energized,5,satisfying,5,5,5,5,4,False,4,4,3,1,1,4,3,1,1,1
+Knives Out,4,4,3,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,energized,4,satisfying,4,4,4,4,3,False,4,3,5,4,2,3,1,1,1,4
+Dil Bechara,3,2,4,3,['tight_structure'],"['predictable', 'cliche']",3,bittersweet,4,earned,4,4,3,3,3,False,4,4,4,4,1,2,1,1,1,3
+Manbiki kazoku,3,5,2,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,4,3,5,1,1,3,1,1,1,4
+Marriage Story,3,4,2,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],5,bittersweet,4,earned,4,4,4,3,3,False,4,3,5,1,1,3,1,1,1,3
+Call Me by Your Name,3,4,1,4,"['strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,5,earned,5,5,4,5,3,False,5,5,5,1,2,3,1,1,1,3
+"I, Daniel Blake",3,4,1,4,"['strong_pacing', 'tight_structure']",[],5,sad,4,earned,5,5,4,3,1,False,3,3,5,1,1,2,1,1,1,3
+Isle of Dogs,3,5,3,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,4,4,5,5,False,5,4,5,1,3,3,1,1,2,3
+Hunt for the Wilderpeople,4,4,5,4,"['strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,4,satisfying,4,4,4,5,4,False,4,4,5,1,2,2,1,1,2,4
+Captain Fantastic,3,4,3,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,4,earned,4,4,4,4,3,False,4,4,5,1,5,4,1,1,2,3
+Sing Street,4,4,4,4,"['strong_pacing', 'tight_structure']",['predictable'],4,energized,4,earned,4,3,4,3,3,False,5,5,4,1,4,2,1,1,1,3
+Thor: Ragnarok,4,4,4,3,"['strong_pacing', 'unpredictable']","['predictable', 'cliche']",5,energized,4,satisfying,4,4,4,5,5,False,4,5,5,5,4,2,1,2,1,3
+Nightcrawler,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,1,1,4,1,2,1,4
+Jojo Rabbit,4,5,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,5,earned,4,5,4,4,3,False,4,5,5,1,2,3,1,1,1,3
+Arrival,3,5,3,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,4,False,5,5,5,1,1,5,3,1,1,4
+Star Wars: Episode VII - The Force Awakens,4,2,4,3,['strong_pacing'],"['predictable', 'cliche']",3,bittersweet,3,ambiguous,4,4,3,4,4,False,4,4,4,5,5,2,1,2,1,4
+Before Midnight,3,4,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,ambiguous,5,5,4,3,1,False,3,3,5,5,5,4,1,1,1,3
+X-Men: Days of Future Past,4,4,3,4,"['strong_pacing', 'tight_structure']",[],4,happy,5,satisfying,4,5,4,4,4,False,4,4,5,5,5,3,1,2,1,3
+Bir Zamanlar Anadolu'da,3,4,2,4,['tight_structure'],[],5,bittersweet,4,earned,5,5,4,5,3,False,4,4,5,1,2,5,1,1,1,3
+The Artist,4,5,3,4,"['strong_pacing', 'tight_structure']",[],4,happy,5,earned,5,5,5,5,4,False,5,5,5,1,5,3,1,1,1,3
+Edge of Tomorrow,5,4,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,happy,3,satisfying,4,4,4,4,4,False,4,3,4,1,1,3,1,2,1,4
+Amour,3,4,1,5,"['tight_structure', 'unpredictable', 'strong_pacing']",[],5,sad,5,earned,5,5,5,4,1,False,4,4,5,1,1,4,1,1,1,4
+The Irishman,2,3,1,4,"['strong_pacing', 'tight_structure']","['predictable', 'narrative_inconsistency']",4,bittersweet,5,earned,4,4,4,4,3,False,4,4,5,3,4,4,2,1,1,3
+Un prophète,3,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,4,3,5,1,2,4,1,1,1,5
+Moon,3,5,3,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,satisfying,5,5,5,4,4,False,5,4,5,1,1,4,1,1,1,5
+Låt den rätte komma in,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,1,1,3,1,2,3,3
+District 9,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,4,5,False,4,4,5,1,1,3,1,1,1,3
+The Wrestler,3,4,1,4,"['strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,4,3,3,False,4,5,5,1,1,3,1,2,1,3
+Jab We Met,3,4,4,4,"['unpredictable', 'strong_pacing']","['predictable', 'cliche']",5,happy,4,satisfying,4,5,4,3,3,False,4,5,5,1,1,1,1,1,1,3
+Boyhood,3,5,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,3,1,False,3,4,5,1,2,3,1,1,1,3
+"4 luni, 3 saptamâni si 2 zile",4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,3,False,3,3,5,1,1,4,2,1,1,3
+Star Trek,4,3,3,3,"['strong_pacing', 'plot_twists']","['plot_holes', 'predictable']",4,energized,3,satisfying,4,4,3,4,4,False,4,3,4,4,4,3,2,3,1,3
+In Bruges,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,4,5,5,3,3,1,1,1,3
+The Man from Earth,3,5,3,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,2,1,False,3,1,4,1,5,5,1,1,1,3
+Letters from Iwo Jima,3,4,1,4,"['strong_pacing', 'tight_structure']",[],4,sad,4,earned,4,5,4,4,3,False,4,3,5,4,4,3,1,2,1,3
+The Fall,3,5,3,3,"['unpredictable', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,5,False,4,4,4,1,3,3,1,1,1,3
+Life of Pi,3,5,4,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,4,5,5,False,4,4,4,1,2,4,1,2,4,3
+Fantastic Mr. Fox,5,5,5,4,"['strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,5,4,4,5,5,False,5,5,5,1,2,3,1,1,2,3
+C.R.A.Z.Y.,4,4,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,3,False,3,5,5,1,2,3,1,1,1,2
+Les choristes,3,3,4,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,bittersweet,4,earned,4,4,4,3,3,False,5,5,4,1,1,2,1,1,1,3
+Iron Man,4,4,3,4,"['strong_pacing', 'tight_structure']",['predictable'],5,energized,5,satisfying,4,5,4,4,4,False,4,5,5,3,3,2,1,2,1,3
+Shaun of the Dead,4,5,1,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,4,3,False,4,5,5,3,4,2,1,1,1,3
+Gegen die Wand,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,5,5,1,1,4,1,1,1,3
+Mystic River,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,3,3,False,4,3,5,1,1,4,1,1,1,3
+Harry Potter and the Prisoner of Azkaban,3,4,3,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,5,4,False,5,5,4,5,5,3,1,2,1,4
+Ying xiong,3,4,3,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],3,bittersweet,4,earned,5,5,4,5,4,False,5,5,4,1,2,4,1,1,1,3
+Hable con ella,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,4,satisfying,5,5,5,5,3,False,5,5,5,1,2,4,1,1,1,4
+No Man's Land,2,2,1,2,['strong_pacing'],"['predictable', 'cliche']",2,bittersweet,2,abrupt,2,2,2,3,3,False,3,3,3,1,1,2,1,1,2,3
+Cowboy Bebop: Tengoku no tobira,4,3,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,4,4,5,5,False,5,5,5,4,4,3,1,3,1,3
+The Bourne Identity,5,4,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,5,5,4,4,4,False,5,4,5,4,3,3,1,2,1,4
+Nueve reinas,4,4,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,earned,4,4,4,3,3,False,4,3,4,3,3,4,1,1,1,5
+Children of Men,5,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,ambiguous,5,5,5,5,5,False,4,4,5,1,1,4,1,3,3,3
+Almost Famous,3,4,3,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,satisfying,5,4,4,4,3,False,5,5,5,1,5,2,1,1,1,3
+Mulholland Dr.,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],3,sad,5,earned,5,5,5,5,4,False,5,5,5,1,2,5,2,1,1,1
+Toy Story 2,5,4,5,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,5,earned,5,5,5,5,5,False,5,5,5,5,3,3,1,1,1,1
+Boogie Nights,3,5,1,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,satisfying,5,5,4,5,4,False,5,5,5,1,2,3,1,2,1,3
+Mimi wo sumaseba,3,4,4,4,"['strong_pacing', 'tight_structure']",[],4,energized,4,satisfying,4,3,4,5,4,False,4,4,4,3,2,2,1,1,1,3
+Once Were Warriors,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,4,3,False,4,4,5,4,4,3,1,1,1,4
+True Romance,5,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],5,bittersweet,4,earned,5,5,5,4,3,False,5,4,5,4,3,3,1,3,1,1
+Trois couleurs: Bleu,3,5,2,4,"['tight_structure', 'unpredictable']",[],4,bittersweet,5,earned,5,5,4,5,4,False,5,5,5,4,3,4,1,1,1,1
+Jûbê ninpûchô,5,4,1,3,"['strong_pacing', 'tight_structure']",['predictable'],3,bittersweet,4,satisfying,4,5,4,5,4,False,4,3,4,1,4,2,1,2,4,3
+Carlito's Way,3,3,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,sad,4,earned,4,4,4,4,3,False,4,4,5,1,1,3,1,1,1,3
+Edward Scissorhands,3,5,4,4,"['strong_pacing', 'tight_structure']",[],3,bittersweet,5,earned,5,5,4,5,4,False,5,4,5,1,2,2,1,1,1,3
+My Left Foot: The Story of Christy Brown,3,4,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,5,4,3,3,False,4,3,5,1,1,3,1,1,1,3
+Crimes and Misdemeanors,3,4,1,5,"['unpredictable', 'tight_structure', 'strong_pacing']",[],5,disappointed,5,earned,4,5,5,3,1,False,4,4,5,1,3,4,1,1,1,5
+The Untouchables,4,3,1,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",5,bittersweet,4,earned,4,4,4,5,4,False,5,3,5,3,3,2,1,1,1,3
+Hannah and Her Sisters,3,4,1,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,satisfying,4,4,4,3,3,False,4,4,5,3,4,4,1,1,1,3
+Brazil,2,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],5,bittersweet,5,earned,5,5,5,5,5,False,5,5,5,1,5,5,1,1,1,5
+This Is Spinal Tap,4,5,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,satisfying,5,5,5,3,3,False,5,5,5,1,4,3,1,1,1,3
+A Christmas Story,3,4,5,3,[],['predictable'],5,happy,4,satisfying,4,5,5,3,3,False,4,4,5,1,2,1,1,1,1,2
+The Blues Brothers,3,5,2,3,"['strong_pacing', 'unpredictable']",['narrative_inconsistency'],5,bittersweet,4,earned,4,5,5,3,4,False,5,5,5,1,5,1,1,1,1,1
+Manhattan,3,3,1,4,['tight_structure'],['predictable'],5,bittersweet,4,earned,5,5,4,5,3,False,5,5,5,1,3,4,1,1,1,3
+All That Jazz,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,4,5,4,False,5,5,5,1,4,4,3,4,1,3
+Dawn of the Dead,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],2,bittersweet,4,earned,4,5,4,3,4,False,4,4,3,3,4,3,1,2,4,3
+All the President's Men,3,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,neutral,4,satisfying,4,5,4,3,3,False,4,3,5,1,5,4,3,1,1,3
+La montaña sagrada,2,5,1,3,['unpredictable'],['narrative_inconsistency'],2,neutral,3,ambiguous,5,5,4,5,5,False,4,4,3,1,5,5,4,3,1,5
+Amarcord,3,5,2,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,5,satisfying,5,5,5,5,4,False,5,4,4,1,4,4,2,1,1,4
+Le charme discret de la bourgeoisie,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,neutral,4,ambiguous,5,5,5,4,3,False,3,3,5,1,2,4,2,1,1,3
+"Aguirre, der Zorn Gottes",3,5,1,4,"['tight_structure', 'unpredictable']",[],3,sad,5,earned,5,5,5,5,3,False,5,5,5,1,1,4,1,1,3,3
+Harold and Maude,3,5,2,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,5,earned,4,5,4,3,3,False,5,5,5,1,1,3,1,1,1,3
+Patton,3,4,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,4,4,False,5,5,5,1,1,4,1,1,2,1
+The Wild Bunch,3,5,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,4,5,5,4,4,False,4,4,5,4,3,3,1,1,5,3
+Night of the Living Dead,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['narrative_inconsistency'],3,sad,5,earned,4,5,4,3,3,False,3,1,3,1,1,2,1,1,1,1
+The Lion in Winter,3,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,5,4,3,False,5,1,5,1,2,4,1,1,1,3
+In the Heat of the Night,3,5,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,4,3,False,5,5,5,1,1,3,1,1,1,3
+Charade,4,4,3,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,4,satisfying,4,4,4,4,3,False,5,5,5,1,2,3,1,1,1,3
+The Manchurian Candidate,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,neutral,5,earned,4,5,5,3,2,False,4,3,5,1,4,4,1,1,1,5
+Spartacus,3,4,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,4,5,4,False,5,5,5,1,2,4,1,1,3,4
+L'avventura,3,5,1,3,"['tight_structure', 'unpredictable']","['predictable', 'narrative_inconsistency']",3,sad,5,ambiguous,4,5,4,5,1,False,3,1,4,1,1,5,3,1,1,3
+Hiroshima mon amour,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,4,3,5,1,3,5,3,1,1,3
+The Ten Commandments,3,3,3,4,['tight_structure'],['predictable'],2,bittersweet,4,earned,4,5,4,5,5,False,5,4,4,4,2,3,1,1,2,1
+The Searchers,3,5,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,bittersweet,5,earned,5,5,5,5,3,False,4,3,5,3,4,4,1,1,3,3
+East of Eden,3,4,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,4,3,False,4,3,5,1,4,4,1,1,1,3
+High Noon,3,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,3,1,False,5,5,5,1,1,3,1,1,1,3
+Strangers on a Train,4,5,2,5,"['plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,5,5,5,4,3,False,5,5,5,1,1,3,1,1,1,5
+Harvey,3,4,4,4,"['strong_pacing', 'tight_structure']",[],5,happy,4,satisfying,4,4,4,3,1,False,3,1,5,1,1,2,1,1,1,3
+Miracle on 34th Street,3,4,5,4,"['tight_structure', 'strong_pacing']",[],4,happy,4,satisfying,4,5,4,3,2,False,4,3,5,1,2,2,1,1,1,3
+Notorious,4,4,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,satisfying,5,5,5,5,3,False,4,3,5,1,1,3,1,1,1,4
+The Big Sleep,3,4,1,3,"['unpredictable', 'plot_twists']",['narrative_inconsistency'],5,neutral,3,satisfying,4,5,4,4,3,False,4,3,5,1,2,4,1,1,1,3
+The Lost Weekend,3,5,1,4,"['tight_structure', 'strong_pacing']",[],4,bittersweet,4,earned,5,5,4,4,4,False,5,3,5,1,1,4,1,2,2,4
+The Philadelphia Story,4,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,4,satisfying,4,5,4,3,3,False,3,3,5,1,1,3,1,1,1,1
+His Girl Friday,5,5,3,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,4,satisfying,4,5,5,3,3,False,3,3,5,3,2,3,1,1,1,1
+The Adventures of Robin Hood,5,4,5,4,"['strong_pacing', 'tight_structure']",['predictable'],4,happy,5,satisfying,4,5,5,5,4,False,5,3,5,1,1,1,1,1,1,3
+A Night at the Opera,4,5,4,3,"['strong_pacing', 'tight_structure']","['predictable', 'narrative_inconsistency']",5,happy,4,satisfying,4,5,5,3,1,False,3,4,5,3,2,2,1,1,1,1
+King Kong,2,3,2,3,['tight_structure'],"['predictable', 'cliche']",3,sad,4,earned,4,4,3,4,5,False,4,4,4,1,3,2,1,2,4,2
+Freaks,3,5,1,4,"['unpredictable', 'tight_structure']",[],3,sad,5,earned,4,5,4,3,2,False,3,3,4,1,1,3,1,1,1,1
+Nosferatu,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['cliche'],1,bittersweet,4,earned,5,5,5,5,4,False,4,3,5,1,3,3,1,1,1,1
+The Gentlemen,5,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,4,satisfying,4,3,4,4,3,False,4,4,5,1,2,4,1,1,1,4
+Raazi,3,4,3,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],4,bittersweet,4,earned,4,4,4,3,3,False,4,4,5,1,1,3,1,1,1,3
+Sound of Metal,3,4,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,3,3,False,4,5,5,1,1,4,2,1,1,3
+Forushande,3,4,1,4,"['unpredictable', 'tight_structure']",[],5,sad,4,earned,4,4,4,3,3,False,3,3,5,1,1,4,1,1,1,3
+Dunkirk,5,5,3,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,bittersweet,5,satisfying,5,5,5,5,5,False,5,3,4,1,5,4,1,3,1,3
+Perfetti sconosciuti,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,neutral,4,satisfying,5,5,4,3,3,False,4,3,5,3,3,3,1,1,1,3
+Hidden Figures,4,3,5,4,"['strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,4,5,4,3,3,False,4,4,5,1,2,2,2,1,1,3
+Paddington 2,5,4,5,5,"['strong_pacing', 'tight_structure', 'plot_twists']",[],5,happy,5,satisfying,5,5,5,5,5,False,4,4,5,4,3,2,1,1,1,3
+Udta Punjab,3,4,1,4,"['strong_pacing', 'unpredictable']",['predictable'],4,bittersweet,4,earned,4,5,4,3,3,False,4,4,5,1,2,3,1,2,1,3
+Kubo and the Two Strings,3,5,4,4,"['tight_structure', 'strong_pacing']",['predictable'],4,bittersweet,4,earned,5,5,4,5,5,False,5,5,4,1,3,3,1,1,1,3
+M.S. Dhoni: The Untold Story,2,2,4,3,['tight_structure'],"['predictable', 'cliche']",3,energized,4,earned,3,3,3,3,3,False,3,4,4,1,4,2,2,1,1,4
+Manchester by the Sea,3,4,1,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,4,3,False,4,4,5,1,1,3,1,1,1,3
+Under sandet,4,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,4,False,4,3,5,3,3,3,1,1,1,3
+Rogue One,4,3,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],2,bittersweet,5,earned,4,4,4,5,5,False,4,3,4,5,5,3,1,2,1,4
+Captain America: Civil War,4,3,4,4,"['plot_twists', 'strong_pacing', 'tight_structure']",['plot_holes'],4,bittersweet,4,earned,4,5,4,4,5,False,3,3,5,5,5,3,1,3,1,4
+The Hateful Eight,2,3,1,4,"['plot_twists', 'tight_structure']",[],5,neutral,3,earned,4,4,3,5,4,False,5,4,5,1,3,4,1,2,3,3
+Little Women,4,4,5,4,"['strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,4,earned,5,5,5,5,4,False,5,4,5,4,4,3,1,1,1,3
+Loving Vincent,3,5,3,4,"['strong_pacing', 'tight_structure']",['predictable'],3,bittersweet,4,earned,5,5,4,5,5,False,4,4,4,4,5,4,2,2,1,4
+Pride,4,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,4,4,4,3,3,False,4,4,5,3,4,3,1,1,1,3
+Le passé,3,4,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,4,4,3,1,False,3,3,5,1,1,4,1,1,1,2
+La grande bellezza,2,5,1,2,[],['narrative_inconsistency'],5,bittersweet,4,earned,5,5,4,5,4,False,5,5,5,1,5,4,1,3,1,1
+The Lunchbox,3,4,3,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,ambiguous,4,4,4,4,3,False,4,3,5,1,1,3,1,1,1,3
+Vicky Donor,4,5,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,4,earned,4,5,4,3,3,False,4,4,5,1,1,3,1,1,1,3
+Big Hero 6,4,3,5,3,['strong_pacing'],['predictable'],4,bittersweet,4,satisfying,4,3,4,5,5,False,4,4,4,1,2,2,1,1,1,3
+About Time,3,4,4,4,['tight_structure'],"['predictable', 'cliche']",5,energized,5,earned,4,4,4,3,3,False,3,4,5,1,1,2,1,1,1,3
+English Vinglish,3,4,5,4,"['strong_pacing', 'tight_structure']",[],4,energized,4,earned,4,5,4,3,3,False,4,3,5,1,1,2,1,1,1,3
+Kaze tachinu,3,4,3,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,5,4,4,5,5,False,5,5,4,1,5,4,2,1,1,3
+Toy Story 4,3,3,5,3,"['unpredictable', 'strong_pacing']","['predictable', 'cliche']",4,bittersweet,4,earned,4,3,3,5,5,False,4,3,5,5,4,2,1,1,1,3
+La migliore offerta,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,3,False,5,4,5,1,2,4,2,1,1,3
+Moonrise Kingdom,4,5,4,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,4,satisfying,5,4,4,5,4,False,5,5,5,4,3,3,1,1,2,4
+How to Train Your Dragon 2,4,3,5,4,"['unpredictable', 'plot_twists', 'strong_pacing']",['cliche'],4,bittersweet,4,earned,5,5,4,5,5,False,5,4,5,5,4,3,1,1,2,3
+The Big Short,4,5,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,disappointed,4,earned,4,5,4,3,3,False,4,4,5,1,5,5,5,1,1,3
+Kokuhaku,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,2,4,1,3,1,5
+Ang-ma-reul bo-at-da,5,4,1,4,"['unpredictable', 'strong_pacing']",[],3,sad,4,earned,5,5,4,4,4,False,4,3,5,1,1,3,1,1,4,3
+The Girl with the Dragon Tattoo,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,sad,4,earned,5,4,4,5,4,False,5,5,5,3,3,4,1,1,1,4
+Captain Phillips,4,3,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,4,4,4,3,3,False,4,3,5,1,2,3,1,1,1,3
+Ajeossi,4,4,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,5,earned,5,5,5,5,4,False,4,4,5,1,1,3,1,4,1,3
+Straight Outta Compton,3,3,1,4,"['strong_pacing', 'tight_structure']","['predictable', 'narrative_inconsistency']",4,bittersweet,4,earned,4,4,4,3,3,False,4,5,4,4,4,2,1,3,1,3
+Madeo,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,4,False,4,4,5,1,1,4,1,1,1,5
+Chugyeokja,5,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,4,4,False,4,4,5,1,1,3,1,1,1,1
+The Hobbit: The Desolation of Smaug,2,2,3,2,[],"['plot_holes', 'predictable', 'cliche', 'narrative_inconsistency']",2,disappointed,2,abrupt,2,2,2,4,3,False,4,3,3,5,5,3,1,1,1,3
+Das weiße Band - Eine deutsche Kindergeschichte,3,5,1,4,"['unpredictable', 'tight_structure']",[],4,sad,4,ambiguous,5,5,4,5,3,False,5,5,5,1,1,5,2,1,4,2
+Män som hatar kvinnor,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,4,3,False,4,3,5,4,2,4,2,1,1,5
+The Trial of the Chicago 7,3,3,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,4,earned,4,4,4,3,3,False,4,3,5,4,5,4,3,1,1,3
+Druk,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,3,False,4,5,5,1,2,4,1,1,1,3
+The Fighter,4,3,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,energized,4,earned,4,4,4,3,3,False,3,4,5,4,1,2,1,1,1,3
+Taken,5,3,1,4,"['strong_pacing', 'tight_structure']",['predictable'],3,happy,4,satisfying,4,5,4,3,3,False,4,3,4,1,1,1,1,3,1,3
+The Boy in the Striped Pyjamas,3,3,2,3,"['strong_pacing', 'unpredictable']","['plot_holes', 'cliche']",3,sad,4,earned,4,4,3,3,3,False,3,3,4,1,1,3,1,1,1,4
+Once,3,4,3,3,"['strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,4,earned,5,5,4,3,1,False,5,5,5,1,1,2,1,1,1,3
+The Hobbit: An Unexpected Journey,1,2,3,2,[],"['plot_holes', 'predictable', 'narrative_inconsistency']",2,neutral,2,abrupt,3,2,2,3,3,False,4,4,4,5,5,2,1,2,1,3
+Auf der anderen Seite,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,3,False,4,4,5,1,4,4,1,1,1,3
+Atonement,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,4,earned,4,5,4,5,4,False,5,3,5,1,1,4,1,1,1,3
+Drive,3,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,4,False,5,5,5,1,3,3,1,3,1,2
+American Gangster,3,3,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,4,4,4,4,4,False,4,4,5,1,2,3,1,1,1,3
+Avatar,3,2,3,2,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",2,bittersweet,4,satisfying,5,5,4,5,5,False,4,3,3,1,1,2,1,3,3,3
+Mr. Nobody,3,5,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,4,earned,5,5,4,5,4,False,5,4,4,1,2,5,2,1,1,4
+Apocalypto,5,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['cliche'],4,bittersweet,4,ambiguous,5,5,4,5,4,False,4,4,4,1,1,3,1,3,4,3
+Little Miss Sunshine,3,4,2,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",5,bittersweet,4,earned,4,4,4,3,3,False,5,5,5,1,1,3,1,1,1,3
+Hot Fuzz,5,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,5,4,False,5,5,5,3,5,4,1,2,1,3
+The Curious Case of Benjamin Button,3,5,3,4,"['unpredictable', 'tight_structure']",['predictable'],3,bittersweet,4,earned,4,4,4,5,5,False,4,4,4,1,1,2,1,1,1,3
+Veer-Zaara,2,3,5,3,['tight_structure'],"['predictable', 'cliche']",4,bittersweet,4,earned,4,5,4,5,3,False,5,5,5,1,1,2,1,1,1,3
+Adams æbler,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,3,3,False,3,3,5,1,1,4,1,1,3,4
+Pride & Prejudice,3,2,4,5,"['strong_pacing', 'tight_structure']",[],5,happy,5,earned,4,5,4,5,3,False,5,5,5,1,2,2,1,1,1,3
+The World's Fastest Indian,3,4,4,4,"['strong_pacing', 'tight_structure']",['predictable'],4,energized,5,satisfying,4,4,4,4,3,False,4,4,5,1,2,2,2,1,1,3
+Tôkyô goddofâzâzu,4,5,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,happy,4,earned,4,4,4,4,4,False,4,3,4,1,2,3,1,1,1,3
+Serenity,2,3,1,1,['unpredictable'],"['plot_holes', 'narrative_inconsistency']",2,disappointed,1,abrupt,1,1,1,3,3,False,3,3,2,1,1,3,1,1,1,3
+Walk the Line,3,3,2,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,4,4,4,3,3,False,4,5,5,1,1,2,1,1,1,3
+Ondskan,4,4,1,5,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,5,4,3,False,4,3,5,3,2,3,1,1,1,3
+The Notebook,3,2,3,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,4,earned,4,5,4,3,3,False,4,3,5,1,1,1,1,1,1,3
+Diarios de motocicleta,3,3,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,5,3,False,5,4,5,4,5,3,1,1,1,3
+Lilja 4-ever,3,4,1,4,"['strong_pacing', 'tight_structure']",[],4,sad,4,earned,5,5,4,4,3,False,4,4,5,1,1,4,1,1,1,3
+Les triplettes de Belleville,3,5,3,4,"['strong_pacing', 'tight_structure']",[],1,bittersweet,4,earned,5,5,4,5,5,False,5,5,3,1,2,3,1,1,2,3
+Gongdong gyeongbi guyeok JSA,3,5,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,4,3,False,4,3,5,1,2,4,2,1,1,3
+The Count of Monte Cristo,4,2,3,4,"['plot_twists', 'tight_structure']",['predictable'],4,bittersweet,4,satisfying,4,3,4,4,3,False,5,4,4,1,1,3,1,1,2,3
+Waking Life,3,5,2,4,"['unpredictable', 'tight_structure']",[],5,neutral,4,ambiguous,5,5,4,5,5,False,4,4,4,1,5,5,3,3,1,1
+Remember the Titans,4,3,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,5,4,3,3,False,4,4,5,1,3,3,1,1,1,3
+Wo hu cang long,3,5,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,5,5,5,False,5,5,5,3,4,3,1,1,1,3
+Todo sobre mi madre,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,satisfying,5,5,5,5,4,False,5,5,5,3,4,4,1,1,1,3
+Cast Away,3,4,3,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],4,bittersweet,4,earned,5,5,4,4,3,False,4,3,5,1,1,3,1,1,1,3
+The Boondock Saints,3,4,1,2,"['unpredictable', 'strong_pacing']","['plot_holes', 'predictable']",4,neutral,3,ambiguous,3,3,3,3,3,False,4,4,4,1,2,2,1,2,1,3
+The Insider,3,4,1,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,4,4,3,False,4,4,5,1,1,4,3,1,1,3
+October Sky,4,3,5,4,"['strong_pacing', 'tight_structure']",['predictable'],4,energized,5,earned,4,4,4,3,3,False,4,3,4,1,1,2,1,1,1,3
+Shrek,4,5,5,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,5,satisfying,4,5,5,4,4,False,4,5,5,4,5,2,1,1,1,1
+Titanic,3,3,2,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,bittersweet,4,satisfying,4,5,4,5,5,False,5,5,4,1,1,2,1,2,1,3
+Hana-bi,3,5,1,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],3,bittersweet,5,earned,5,5,5,5,3,False,5,3,4,1,1,3,1,1,1,5
+Gattaca,3,4,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,5,4,False,5,4,4,1,2,4,2,1,1,3
+The Game,5,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",['narrative_inconsistency'],4,energized,3,satisfying,5,4,4,4,4,False,4,4,4,1,1,4,1,1,1,5
+Breaking the Waves,3,5,1,4,"['unpredictable', 'tight_structure']","['cliche', 'narrative_inconsistency']",4,bittersweet,4,earned,5,5,4,4,1,False,4,5,5,1,1,4,1,1,1,4
+Ed Wood,3,5,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,5,4,4,5,3,False,4,3,5,1,3,3,2,1,1,1
+What's Eating Gilbert Grape,3,4,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,3,3,False,4,3,5,1,1,3,1,1,1,3
+Tombstone,4,3,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,satisfying,4,4,4,4,3,False,4,3,5,1,2,2,1,1,2,3
+The Sandlot,3,3,5,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",5,bittersweet,4,satisfying,4,5,4,3,3,False,4,4,4,1,2,1,1,1,1,3
+The Remains of the Day,3,4,3,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,4,4,5,3,False,4,3,5,1,2,4,1,1,1,3
+Naked,2,2,1,2,[],"['predictable', 'cliche']",2,neutral,2,rushed,2,1,2,3,3,False,2,2,2,1,2,1,1,1,1,2
+The Fugitive,5,3,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,happy,4,earned,4,4,4,3,3,False,4,3,5,1,1,2,1,1,1,3
+A Bronx Tale,3,4,1,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,4,3,3,False,4,5,5,1,4,3,1,1,1,2
+Batman: Mask of the Phantasm,4,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,5,3,4,1,1,1,1
+Lat sau san taam,5,4,1,3,['strong_pacing'],['predictable'],3,energized,4,satisfying,4,5,4,5,4,False,4,3,5,3,2,2,1,4,1,3
+Night on Earth,3,5,1,3,"['tight_structure', 'strong_pacing']",[],5,bittersweet,4,earned,4,4,4,3,3,False,4,4,5,1,1,3,1,1,1,1
+La double vie de Véronique,3,5,2,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,4,earned,5,5,5,5,4,False,5,5,5,1,1,4,1,1,1,1
+Boyz n the Hood,4,4,1,4,"['strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,4,earned,5,5,4,4,3,False,4,5,5,1,1,2,1,1,1,2
+Misery,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,4,earned,5,5,5,4,4,False,4,3,5,1,1,3,1,1,1,2
+Awakenings,3,3,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,3,3,False,4,3,5,1,1,3,2,1,1,2
+Majo no takkyûbin,4,4,5,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,4,4,5,5,False,5,4,4,1,1,1,1,1,1,2
+Glory,3,4,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,4,5,4,4,3,False,5,3,5,1,1,2,1,1,2,1
+Dip huet seung hung,5,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,4,False,4,4,5,1,1,1,1,2,1,1
+Back to the Future Part II,4,4,4,3,"['unpredictable', 'plot_twists', 'strong_pacing']","['plot_holes', 'narrative_inconsistency']",4,energized,4,abrupt,4,4,3,4,4,False,4,3,4,5,3,3,1,1,1,2
+Mississippi Burning,3,3,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,4,4,False,4,4,5,1,1,3,1,1,1,2
+Predator,4,4,1,3,"['strong_pacing', 'tight_structure']",[],3,energized,4,earned,4,4,4,3,4,False,5,1,3,1,1,2,1,2,2,2
+Evil Dead II,5,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,energized,5,abrupt,5,5,5,5,4,False,4,4,5,4,1,1,1,2,2,1
+Ferris Bueller's Day Off,4,4,4,3,"['strong_pacing', 'tight_structure']",[],4,happy,4,satisfying,3,4,4,3,4,False,3,5,5,1,2,1,1,1,1,2
+Down by Law,3,5,1,3,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,4,5,5,False,4,5,5,1,1,3,1,1,1,1
+The Goonies,4,4,5,3,"['unpredictable', 'strong_pacing']","['plot_holes', 'cliche']",4,happy,4,satisfying,4,5,4,3,3,False,4,5,4,1,2,1,1,1,1,2
+The Color Purple,2,1,1,3,"['strong_pacing', 'tight_structure']","['narrative_inconsistency', 'cliche']",3,bittersweet,3,earned,3,3,3,4,4,False,4,5,5,1,1,2,1,1,1,2
+The Breakfast Club,3,5,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,3,3,False,4,5,5,1,1,2,1,1,1,1
+The Killing Fields,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,5,4,False,5,4,5,1,1,3,1,1,2,1
+Ghostbusters,4,5,3,4,"['strong_pacing', 'tight_structure']",[],5,happy,4,satisfying,4,5,4,3,3,False,5,5,5,1,2,1,1,2,1,1
+The Right Stuff,3,4,3,4,"['strong_pacing', 'tight_structure']",[],4,energized,4,earned,5,5,4,5,5,False,5,5,5,1,1,3,2,1,1,1
+The King of Comedy,3,5,1,4,"['unpredictable', 'tight_structure']",[],4,neutral,4,earned,4,5,4,3,3,False,4,4,5,1,1,3,1,1,1,2
+E.T. the Extra-Terrestrial,3,5,5,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,5,5,5,4,4,False,5,5,4,5,1,2,1,1,1,2
+Kramer vs. Kramer,3,4,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,3,1,False,4,3,5,1,1,3,1,1,1,3
+Days of Heaven,3,4,2,3,"['strong_pacing', 'tight_structure']",['predictable'],3,bittersweet,4,earned,5,5,4,5,4,False,5,5,4,1,1,4,2,1,1,2
+The Outlaw Josey Wales,3,4,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,5,4,4,3,False,4,3,5,1,2,2,1,1,2,3
+The Man Who Would Be King,4,4,3,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,4,5,4,False,4,4,5,1,2,3,1,1,1,3
+The Conversation,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,3,False,4,3,5,3,3,4,3,1,1,5
+La planète sauvage,3,5,2,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,5,False,5,4,4,1,5,4,2,1,1,3
+The Day of the Jackal,3,4,2,5,"['strong_pacing', 'tight_structure', 'unpredictable']",[],4,neutral,5,earned,5,5,5,4,3,False,4,3,5,1,4,4,2,1,1,3
+Badlands,3,5,1,4,"['strong_pacing', 'tight_structure']",[],4,neutral,4,earned,5,5,5,5,4,False,4,4,5,1,1,3,1,1,2,3
+Cabaret,3,4,1,4,"['tight_structure', 'unpredictable']",[],4,bittersweet,5,earned,4,5,4,5,4,False,5,5,5,1,4,4,1,1,1,3
+Willy Wonka & the Chocolate Factory,3,4,3,3,"['tight_structure', 'unpredictable']",['predictable'],4,bittersweet,4,earned,4,5,4,4,3,False,4,5,5,1,1,2,1,2,1,3
+Midnight Cowboy,3,5,1,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,5,earned,4,5,4,4,3,False,5,5,5,1,1,4,1,1,1,3
+Wait Until Dark,4,5,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,5,5,5,4,3,False,4,3,5,1,1,3,1,4,1,5
+Guess Who's Coming to Dinner,3,5,4,4,['tight_structure'],[],5,happy,4,earned,4,5,4,3,1,False,3,1,5,1,1,4,1,1,1,3
+Bonnie and Clyde,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,5,earned,4,5,5,4,4,False,4,4,5,1,1,3,1,2,1,1
+My Fair Lady,3,3,4,4,"['strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,4,earned,4,5,4,5,4,False,5,5,5,1,1,2,1,1,1,3
+Mary Poppins,3,5,5,3,"['strong_pacing', 'tight_structure']",['predictable'],4,happy,5,earned,5,5,5,5,5,False,5,5,5,1,1,1,1,1,1,1
+The Longest Day,3,3,2,4,"['strong_pacing', 'tight_structure']",['predictable'],3,bittersweet,4,satisfying,4,5,4,4,4,False,4,3,4,1,2,2,1,1,3,5
+Jules et Jim,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,abrupt,4,5,4,5,3,False,5,5,5,1,2,4,2,1,1,4
+The Innocents,3,4,1,4,"['unpredictable', 'tight_structure']",[],4,neutral,4,earned,5,4,4,5,4,False,4,3,5,1,1,3,1,1,5,2
+À bout de souffle,3,5,1,3,"['unpredictable', 'strong_pacing']",['predictable'],5,sad,5,earned,3,5,4,4,1,False,4,3,5,1,3,3,2,1,1,3
+Red River,4,4,3,5,"['unpredictable', 'strong_pacing', 'tight_structure']",['predictable'],4,neutral,3,rushed,4,5,4,4,3,False,4,4,5,1,3,3,1,1,2,1
+Key Largo,3,3,1,4,"['strong_pacing', 'tight_structure']",[],5,energized,4,earned,4,3,4,3,2,False,3,4,5,1,1,3,1,1,1,3
+To Have and Have Not,3,3,2,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",5,energized,4,satisfying,4,5,4,3,3,False,4,5,5,1,2,2,1,1,1,1
+Shadow of a Doubt,3,4,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,3,False,4,3,5,1,1,3,1,1,1,3
+Stagecoach,4,5,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,5,4,False,4,4,5,4,2,2,1,1,3,1
+The Lady Vanishes,4,4,3,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,happy,4,satisfying,4,5,4,3,3,False,3,3,4,1,2,3,1,1,1,3
+Bringing Up Baby,5,5,4,4,"['unpredictable', 'strong_pacing']",[],5,happy,5,earned,4,5,5,3,1,False,3,1,5,1,1,3,1,1,1,3
+Bride of Frankenstein,3,5,2,5,"['strong_pacing', 'tight_structure']",[],4,sad,5,earned,4,5,5,5,5,False,5,4,5,5,4,3,1,1,1,3
+Duck Soup,5,5,3,4,"['unpredictable', 'strong_pacing']",[],5,energized,5,satisfying,4,5,5,3,1,False,4,4,5,3,5,3,1,1,1,1
+Scarface: The Shame of the Nation,5,4,1,4,"['strong_pacing', 'tight_structure']",[],4,neutral,4,earned,4,5,4,4,3,False,3,3,4,1,3,3,1,1,1,1
+Frankenstein,3,5,1,4,"['tight_structure', 'unpredictable']",[],2,bittersweet,4,earned,4,5,4,5,4,False,3,1,5,1,1,2,1,1,1,3
+Roma,3,5,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,4,False,5,5,5,1,1,3,1,1,3,1
+God's Own Country,3,4,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,4,3,False,4,3,5,1,1,4,1,1,1,3
+Deadpool 2,5,4,1,3,"['plot_twists', 'strong_pacing']","['predictable', 'narrative_inconsistency']",5,bittersweet,4,earned,3,4,4,3,4,False,4,5,5,5,5,3,1,3,1,4
+Wind River,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,4,earned,5,5,4,5,4,False,5,4,5,1,1,4,1,2,3,3
+Get Out,4,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,5,5,5,4,4,False,5,5,5,1,3,4,1,1,1,5
+Mission: Impossible - Fallout,5,4,3,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,earned,5,5,5,5,4,False,5,4,5,5,5,3,1,3,1,3
+En man som heter Ove,3,4,3,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,4,4,4,3,3,False,4,3,5,1,1,2,1,1,1,3
+What We Do in the Shadows,3,5,1,3,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,neutral,3,satisfying,4,4,4,3,3,False,4,4,5,3,4,2,1,1,1,3
+Omoide no Mânî,3,2,4,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,happy,4,satisfying,4,2,3,5,5,False,4,4,4,1,1,1,1,1,1,3
+The Theory of Everything,3,2,3,3,['tight_structure'],"['predictable', 'cliche']",4,bittersweet,3,earned,4,3,3,4,3,False,4,4,5,1,2,3,2,1,1,3
+Kingsman: The Secret Service,5,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,happy,4,earned,4,4,4,4,4,False,4,5,5,3,4,2,1,3,1,4
+The Fault in Our Stars,3,2,3,3,['tight_structure'],"['predictable', 'cliche']",4,bittersweet,3,earned,4,4,3,3,3,False,4,4,4,1,1,2,1,1,1,3
+Me and Earl and the Dying Girl,3,4,3,4,"['tight_structure', 'unpredictable']",[],4,bittersweet,4,earned,4,4,4,4,4,False,4,4,4,1,5,3,1,1,1,3
+Birdman or (The Unexpected Virtue of Ignorance),4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,ambiguous,5,5,4,5,5,False,5,4,5,1,5,4,3,1,1,3
+La vie d'Adèle,3,4,1,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,4,3,False,3,3,5,1,1,4,1,1,1,4
+Kai po che!,4,3,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,3,False,4,4,4,3,2,3,1,1,1,3
+The Broken Circle Breakdown,4,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,3,False,5,5,5,1,1,4,1,1,1,3
+Captain America: The Winter Soldier,5,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,5,4,4,4,False,4,3,4,5,4,3,1,2,1,3
+Rockstar,2,4,3,3,['unpredictable'],"['plot_holes', 'narrative_inconsistency']",4,bittersweet,3,ambiguous,5,5,4,4,3,False,5,5,4,1,2,3,1,1,1,3
+Nebraska,3,4,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,5,3,False,4,3,5,1,1,3,1,1,1,3
+Wreck-It Ralph,4,4,5,4,"['strong_pacing', 'tight_structure']",['predictable'],4,happy,4,earned,5,3,4,5,5,False,4,4,5,4,5,2,1,2,1,4
+Le Petit Prince,3,4,4,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,bittersweet,4,earned,4,4,4,5,5,False,4,4,4,4,5,3,1,1,1,3
+Detachment,3,4,1,3,['unpredictable'],['narrative_inconsistency'],4,bittersweet,4,earned,4,5,4,4,3,False,4,3,5,1,3,4,1,1,1,3
+Midnight in Paris,3,4,3,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,3,4,5,4,False,4,4,4,4,5,3,1,1,1,3
+The Lego Movie,5,5,5,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,5,False,4,5,5,4,5,3,1,1,1,1
+Gravity,5,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,energized,5,earned,5,5,5,5,5,False,5,4,5,1,1,3,2,4,1,5
+Star Trek Into Darkness,4,2,3,2,['strong_pacing'],"['plot_holes', 'predictable', 'narrative_inconsistency']",3,neutral,2,rushed,3,2,3,4,4,False,4,4,4,5,5,2,2,3,1,4
+Beasts of No Nation,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,4,False,4,3,5,1,1,4,1,1,1,3
+The Social Network,5,4,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,4,4,False,5,4,5,3,4,4,3,1,1,5
+X: First Class,4,3,3,4,"['strong_pacing', 'plot_twists', 'tight_structure']",['cliche'],4,bittersweet,4,earned,4,4,4,4,4,False,4,3,5,5,4,3,1,2,1,3
+The Hangover,5,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,4,satisfying,4,5,4,3,3,False,4,5,4,3,3,1,1,1,1,4
+Skyfall,4,4,2,4,"['plot_twists', 'strong_pacing', 'tight_structure']",['plot_holes'],4,bittersweet,4,earned,4,4,4,5,4,False,4,5,5,4,4,3,1,1,1,3
+Silver Linings Playbook,4,4,1,4,"['strong_pacing', 'tight_structure']",['predictable'],5,bittersweet,4,earned,4,4,4,3,3,False,4,4,5,1,2,3,1,1,1,3
+Argo,4,4,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,earned,4,4,4,4,3,False,4,3,4,1,3,3,1,1,1,3
+(500) Days of Summer,3,4,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",['predictable'],4,bittersweet,4,earned,4,4,4,4,3,False,4,5,4,1,4,3,1,1,1,3
+Harry Potter and the Deathly Hallows: Part 1,2,3,2,3,"['strong_pacing', 'tight_structure']","['predictable', 'narrative_inconsistency']",3,neutral,3,ambiguous,4,3,3,4,4,False,4,4,4,5,5,4,1,2,3,4
+Gake no ue no Ponyo,3,4,5,4,"['unpredictable', 'strong_pacing']",[],4,happy,4,satisfying,5,4,4,5,5,False,5,5,4,1,1,1,1,1,1,3
+Frost/Nixon,3,3,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,energized,5,earned,4,4,4,3,3,False,4,3,5,4,5,4,3,1,1,3
+Papurika,4,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],3,energized,4,earned,5,5,4,5,5,False,5,5,4,1,4,5,2,4,1,3
+Changeling,3,3,1,4,"['tight_structure', 'strong_pacing']","['predictable', 'cliche']",3,bittersweet,3,earned,4,4,4,4,3,False,4,3,5,1,1,4,1,1,1,3
+Flipped,3,3,4,4,"['tight_structure', 'strong_pacing']",['predictable'],4,happy,4,satisfying,4,3,4,4,3,False,4,4,4,4,1,1,1,1,1,3
+Toki o kakeru shôjo,4,4,5,5,"['strong_pacing', 'tight_structure', 'plot_twists']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,3,3,3,1,1,1,3
+Death Note: Desu nôto,4,5,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,energized,4,ambiguous,4,4,4,3,3,False,4,4,5,4,4,4,1,1,1,3
+This Is England,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,3,False,4,5,5,4,5,2,1,1,1,3
+Ex Machina,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,5,5,False,4,4,5,1,2,4,2,1,1,4
+Efter brylluppet,3,4,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,3,False,4,3,5,1,1,4,1,1,1,4
+The Last King of Scotland,3,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],4,sad,4,earned,4,5,4,4,3,False,4,4,5,1,2,4,1,1,1,3
+Zodiac,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,neutral,4,earned,5,5,4,5,4,False,4,4,5,1,5,4,1,1,1,3
+Lucky Number Slevin,3,3,1,3,"['plot_twists', 'tight_structure']",['narrative_inconsistency'],5,energized,4,satisfying,4,3,3,3,3,False,3,3,4,1,5,4,1,1,1,5
+Joyeux Noël,3,4,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,3,False,4,5,4,4,2,3,1,1,2,3
+Control,3,4,1,3,"['strong_pacing', 'tight_structure']",['predictable'],4,sad,4,earned,5,4,4,5,1,False,5,5,5,1,5,3,1,1,1,4
+Tangled,4,4,5,4,"['plot_twists', 'strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,happy,4,satisfying,4,4,4,5,5,False,5,4,4,3,2,1,1,1,1,3
+Zwartboek,3,3,1,3,"['unpredictable', 'plot_twists', 'strong_pacing']",[],3,bittersweet,3,earned,3,3,3,3,3,False,3,3,4,1,1,3,1,1,3,5
+Brokeback Mountain,3,5,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,sad,5,earned,5,5,4,5,4,False,5,4,5,1,1,2,1,1,2,4
+3:10 to Yuma,4,3,2,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],4,bittersweet,4,earned,4,4,4,4,3,False,4,3,5,1,1,3,1,1,2,3
+Crash,3,3,1,2,"['plot_twists', 'tight_structure']","['plot_holes', 'predictable', 'cliche', 'narrative_inconsistency']",2,bittersweet,3,satisfying,3,4,3,3,3,False,4,3,4,4,1,3,1,1,1,3
+Kung fu,3,3,3,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,energized,4,satisfying,4,3,3,3,2,False,4,3,3,3,3,2,1,1,2,3
+The Bourne Supremacy,5,3,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,5,4,4,4,False,5,4,4,5,4,3,1,2,1,3
+The Machinist,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],3,bittersweet,4,earned,5,5,4,5,4,False,4,3,5,1,1,4,1,3,1,3
+Ray,4,3,2,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,5,5,4,4,3,False,4,5,5,4,4,3,1,1,1,3
+Lost in Translation,3,4,1,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,5,ambiguous,5,5,4,5,3,False,5,5,5,1,2,3,1,1,1,3
+Harry Potter and the Goblet of Fire,3,4,3,4,"['unpredictable', 'plot_twists', 'strong_pacing']","['plot_holes', 'narrative_inconsistency']",3,bittersweet,4,earned,4,5,3,4,4,False,4,4,4,5,5,3,1,2,1,1
+Man on Fire,3,3,1,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,4,earned,5,5,4,4,4,False,5,4,5,1,2,3,1,3,1,3
+Coraline,3,5,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,4,satisfying,5,5,4,5,5,False,4,4,4,1,2,3,1,2,2,3
+The Last Samurai,3,3,2,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,4,satisfying,5,4,4,5,4,False,5,5,5,1,2,3,1,2,3,3
+The Magdalene Sisters,3,4,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,3,2,False,3,3,5,1,1,4,1,1,1,4
+Good Bye Lenin!,3,5,4,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,3,3,False,5,4,5,1,5,3,1,1,1,3
+In America,4,4,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,3,3,False,4,3,5,1,1,3,1,1,1,3
+I Am Sam,3,3,4,2,['tight_structure'],"['predictable', 'cliche']",2,bittersweet,3,earned,2,3,2,3,3,False,4,4,4,1,4,2,1,1,1,3
+Adaptation.,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,4,earned,4,5,5,3,3,False,4,3,5,1,5,5,4,1,1,3
+Black Hawk Down,5,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,5,False,4,4,4,1,1,3,2,5,2,3
+Road to Perdition,3,3,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,5,3,False,5,3,5,1,1,3,1,1,1,3
+Das Experiment,4,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['predictable'],3,sad,4,earned,5,5,4,3,3,False,4,3,5,1,1,4,1,1,1,3
+Billy Elliot,3,4,4,4,['tight_structure'],['predictable'],4,bittersweet,5,earned,4,5,4,3,3,False,4,5,5,3,4,3,1,1,1,3
+Hedwig and the Angry Inch,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,satisfying,5,5,5,4,4,False,5,5,5,1,2,4,1,2,1,3
+Ocean's Eleven,5,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,energized,5,earned,4,5,5,4,4,False,5,4,5,5,3,3,1,1,1,3
+Vampire Hunter D: Bloodlust,4,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,bittersweet,4,earned,5,5,4,5,5,False,4,4,4,3,2,3,1,2,3,3
+"O Brother, Where Art Thou?",3,5,3,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,happy,4,satisfying,5,4,4,5,4,False,5,5,5,3,5,3,1,1,2,4
+Interstate 60: Episodes of the Road,3,5,3,4,"['unpredictable', 'tight_structure']",['cliche'],4,energized,4,earned,4,4,4,3,3,False,4,4,4,1,3,4,1,1,1,3
+"South Park: Bigger, Longer & Uncut",5,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,5,5,3,3,False,3,5,5,4,5,4,1,1,1,3
+Office Space,3,4,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,satisfying,4,5,4,3,3,False,3,5,5,1,2,2,1,1,1,3
+Happiness,3,5,1,4,"['unpredictable', 'tight_structure']",[],5,neutral,4,earned,5,5,4,3,3,False,3,3,5,1,1,4,1,1,1,4
+Training Day,4,4,1,4,"['strong_pacing', 'tight_structure']",[],5,energized,4,satisfying,4,5,4,3,3,False,4,4,5,1,2,3,1,1,2,3
+Rushmore,3,5,3,4,"['unpredictable', 'tight_structure']",[],5,bittersweet,4,satisfying,4,4,4,5,3,False,5,5,5,1,2,3,1,1,1,3
+Abre los ojos,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,4,ambiguous,5,5,4,4,3,False,4,4,4,1,2,5,2,3,1,3
+Being John Malkovich,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,4,earned,4,5,4,3,3,False,4,4,5,1,5,4,1,1,1,3
+As Good as It Gets,3,4,1,4,['tight_structure'],['predictable'],5,happy,4,earned,4,4,4,3,3,False,3,3,5,1,2,3,1,1,1,3
+The Fifth Element,4,5,2,3,"['strong_pacing', 'unpredictable']",['cliche'],4,happy,4,earned,5,4,4,5,4,False,4,5,4,1,1,2,1,2,1,3
+Le dîner de cons,5,4,2,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,5,3,1,False,3,1,5,1,2,3,1,1,1,3
+Donnie Brasco,3,4,1,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,5,4,3,3,False,3,3,5,1,2,3,1,1,1,3
+Shine,2,4,2,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,4,4,4,3,3,False,5,5,5,1,1,3,1,1,1,3
+Primal Fear,4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,4,5,4,3,3,False,4,4,5,3,3,4,2,1,1,5
+Hamlet,3,5,2,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,sad,5,earned,4,5,5,4,3,False,4,3,5,1,5,5,2,1,1,5
+A Little Princess,3,3,5,4,"['strong_pacing', 'tight_structure']",['cliche'],4,happy,5,satisfying,4,4,4,5,4,False,5,5,5,1,2,2,1,1,1,2
+Do lok tin si,3,4,1,3,"['unpredictable', 'strong_pacing', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,4,earned,5,4,4,5,4,False,5,5,4,4,2,4,2,4,1,3
+Il postino,3,4,3,4,"['tight_structure', 'strong_pacing']",[],5,bittersweet,5,earned,5,5,5,4,3,False,5,3,5,1,3,3,1,1,1,3
+Clerks,3,5,1,3,['tight_structure'],[],5,neutral,4,earned,4,5,4,2,1,False,2,4,3,5,5,2,1,1,1,1
+Short Cuts,2,5,1,4,"['unpredictable', 'tight_structure']",[],5,sad,3,ambiguous,4,5,4,3,3,True,3,4,5,1,3,5,1,1,4,4
+Philadelphia,3,4,2,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,4,5,4,3,3,False,4,5,5,1,1,3,1,1,1,3
+The Muppet Christmas Carol,4,3,5,4,"['strong_pacing', 'tight_structure']",['predictable'],4,happy,5,satisfying,4,5,5,4,3,False,4,5,5,4,4,1,1,1,1,1
+Malcolm X,4,4,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,3,False,5,4,5,5,5,4,1,1,1,1
+The Last of the Mohicans,4,3,2,4,"['strong_pacing', 'tight_structure']",['cliche'],4,bittersweet,4,satisfying,5,4,4,5,4,False,5,5,5,1,3,3,1,2,3,3
+Kurenai no buta,3,5,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,4,4,5,4,False,5,4,4,1,2,3,1,1,1,3
+Glengarry Glen Ross,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,neutral,5,earned,5,5,5,3,3,False,4,3,5,1,1,3,1,1,1,3
+A Few Good Men,4,3,2,5,"['strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,4,3,3,False,3,3,5,1,1,3,2,1,1,5
+Fried Green Tomatoes,3,3,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,3,3,False,4,4,5,4,2,3,1,1,3,3
+Barton Fink,2,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],5,neutral,4,ambiguous,5,5,4,5,3,False,5,3,5,1,4,5,2,2,1,3
+Miller's Crossing,4,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,4,earned,5,5,5,5,4,False,5,4,5,1,2,4,1,1,2,3
+Who Framed Roger Rabbit,5,5,3,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],5,happy,4,earned,5,5,5,5,5,False,5,4,5,3,5,3,1,2,1,3
+Spoorloos,3,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,3,3,False,4,3,5,1,1,4,1,1,1,5
+Withnail & I,3,5,1,4,"['tight_structure', 'unpredictable']",[],5,bittersweet,5,earned,4,5,5,3,3,False,3,3,5,1,2,3,1,1,1,1
+The Last Emperor,3,4,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,4,False,5,5,4,1,1,4,1,1,1,3
+Empire of the Sun,3,4,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,5,4,False,5,4,5,1,2,3,1,1,2,1
+Der Name der Rose,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,4,4,4,3,False,4,3,5,1,5,4,2,1,3,3
+Blue Velvet,3,5,1,4,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,4,satisfying,5,5,5,5,3,False,5,5,5,1,4,4,1,1,1,2
+The Purple Rose of Cairo,3,5,3,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],5,bittersweet,5,earned,4,4,4,3,3,False,4,4,5,1,4,3,1,1,1,3
+After Hours,5,5,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,neutral,5,earned,5,5,5,5,4,False,5,4,5,1,2,3,1,2,1,5
+Zelig,3,5,3,4,"['unpredictable', 'tight_structure']",[],4,neutral,3,satisfying,5,4,4,5,5,False,4,4,4,1,5,4,2,1,1,3
+The Verdict,3,4,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,4,4,3,3,False,4,3,5,1,1,3,1,1,1,4
+Star Trek II: The Wrath of Khan,4,4,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,5,4,4,False,5,4,5,5,5,3,2,1,3,4
+First Blood,3,3,1,4,"['strong_pacing', 'tight_structure']",[],3,bittersweet,4,earned,4,5,4,3,3,False,4,3,4,1,1,1,1,1,1,3
+Ordinary People,3,4,2,4,"['tight_structure', 'unpredictable']",[],5,bittersweet,4,earned,4,5,4,3,1,False,3,1,5,1,1,3,1,1,1,3
+Airplane!,5,5,3,3,['unpredictable'],"['predictable', 'cliche']",5,energized,4,satisfying,4,5,5,3,3,False,3,4,5,1,5,3,1,1,1,1
+Rupan sansei: Kariosutoro no shiro,5,4,5,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,5,4,5,4,False,5,5,4,3,3,2,1,1,1,3
+Halloween,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,energized,5,ambiguous,4,5,4,4,3,False,5,3,4,1,1,1,1,2,1,3
+Le locataire,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,sad,5,earned,5,5,4,5,3,False,4,3,5,1,1,4,1,1,1,5
+Love and Death,3,4,2,3,['unpredictable'],['predictable'],4,bittersweet,3,satisfying,2,3,3,3,1,False,4,4,4,1,5,4,1,1,1,1
+The Taking of Pelham One Two Three,5,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,energized,4,earned,5,5,5,4,3,False,5,3,5,1,1,3,1,1,1,5
+Blazing Saddles,5,5,1,4,"['unpredictable', 'tight_structure']",[],5,energized,5,satisfying,4,5,5,3,3,False,4,4,5,1,5,3,1,1,1,2
+Serpico,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,3,3,False,4,3,5,1,3,3,1,1,1,3
+Enter the Dragon,3,5,2,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",2,energized,4,satisfying,4,5,4,3,3,False,5,3,4,1,3,2,1,4,1,3
+Deliverance,4,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,5,5,5,4,False,5,5,5,1,1,4,1,1,3,3
+The French Connection,5,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,disappointed,4,abrupt,5,5,5,4,3,False,4,3,5,3,2,3,1,1,1,3
+Dirty Harry,5,4,1,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],5,bittersweet,4,ambiguous,4,5,4,4,3,False,5,3,5,4,1,3,1,1,1,3
+Where Eagles Dare,5,4,2,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],3,energized,5,satisfying,4,5,4,4,4,False,5,4,4,1,1,4,1,1,1,5
+The Odd Couple,3,3,3,4,"['tight_structure', 'strong_pacing']",[],5,bittersweet,4,satisfying,4,5,4,3,1,False,5,3,5,1,1,2,1,1,1,3
+The Dirty Dozen,4,4,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,5,4,3,3,False,4,3,5,1,1,2,1,1,1,3
+Belle de jour,3,5,1,4,"['unpredictable', 'tight_structure']",[],4,neutral,5,ambiguous,5,5,5,5,4,False,4,4,5,1,2,5,1,1,1,4
+A Man for All Seasons,3,3,3,5,"['tight_structure', 'strong_pacing']",[],5,bittersweet,5,earned,4,5,5,4,3,False,4,3,5,1,3,4,2,1,1,1
+Repulsion,4,5,1,5,"['unpredictable', 'tight_structure']",[],3,sad,5,earned,5,5,5,5,5,False,5,4,5,1,2,4,2,1,1,4
+Zulu,4,4,2,4,"['strong_pacing', 'tight_structure']",[],3,bittersweet,4,earned,4,5,4,4,4,False,5,4,4,1,1,3,1,1,1,2
+Goldfinger,4,4,2,3,"['plot_twists', 'strong_pacing']",['predictable'],4,energized,4,satisfying,4,5,4,4,3,False,5,5,4,3,3,2,1,1,1,1
+The Birds,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['narrative_inconsistency'],3,neutral,3,ambiguous,4,5,4,4,4,False,1,1,4,1,1,3,1,3,3,4
+Cape Fear,3,3,1,4,"['strong_pacing', 'tight_structure']",['predictable'],4,neutral,5,earned,5,5,4,4,3,False,5,5,5,1,2,3,1,3,1,3
+Peeping Tom,3,5,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,4,False,5,4,5,4,3,4,3,1,1,3
+The Magnificent Seven,3,2,2,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,bittersweet,3,satisfying,3,2,3,3,3,False,3,3,4,1,2,2,1,2,2,3
+Les yeux sans visage,3,5,1,4,"['tight_structure', 'unpredictable']",[],3,bittersweet,5,earned,4,5,4,5,4,False,5,3,4,1,1,2,1,1,5,5
+Invasion of the Body Snatchers,3,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,5,4,5,False,4,3,5,3,4,3,1,1,1,4
+Rebel Without a Cause,3,5,2,4,['tight_structure'],[],5,bittersweet,4,earned,4,5,4,4,3,False,4,3,5,1,1,3,1,1,1,3
+The Ladykillers,3,3,2,3,"['unpredictable', 'plot_twists']","['predictable', 'cliche']",4,neutral,3,ambiguous,4,2,3,4,3,False,4,5,4,1,2,2,1,1,1,2
+Sabrina,3,3,4,3,['tight_structure'],['predictable'],4,happy,4,satisfying,4,4,4,4,3,False,4,4,5,1,2,1,1,1,1,1
+The Quiet Man,3,3,4,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,happy,4,satisfying,5,5,4,5,3,False,4,4,5,1,2,2,1,1,1,2
+The Day the Earth Stood Still,2,2,3,2,[],"['predictable', 'cliche', 'narrative_inconsistency']",2,disappointed,2,rushed,2,1,2,3,3,False,3,3,2,2,2,2,1,1,1,3
+The African Queen,3,4,3,4,"['strong_pacing', 'tight_structure']",[],5,happy,4,satisfying,4,5,4,4,3,False,4,3,5,1,1,2,1,1,1,2
+Gilda,3,3,1,4,"['unpredictable', 'tight_structure']",['cliche'],5,bittersweet,4,earned,4,5,4,4,3,False,4,5,5,1,1,3,1,1,1,3
+Fantasia,2,5,3,3,['unpredictable'],['narrative_inconsistency'],2,neutral,4,satisfying,4,5,4,5,5,False,5,5,5,1,3,4,2,3,3,1
+The Invisible Man,4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],3,energized,4,earned,4,4,4,4,4,False,4,4,5,1,2,3,1,2,1,3
+Dark Waters,3,3,2,4,"['strong_pacing', 'tight_structure']",[],3,bittersweet,4,earned,4,4,4,3,3,False,3,3,4,1,2,4,3,1,3,3
+Searching,5,5,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,5,4,4,4,4,False,4,3,4,1,1,4,1,3,1,3
+Once Upon a Time... in Hollywood,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,5,4,4,5,4,False,4,5,5,1,5,4,2,2,1,4
+Nelyubov,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,4,earned,4,5,4,5,3,False,4,3,5,1,1,4,1,1,1,3
+The Florida Project,3,4,1,3,['tight_structure'],['predictable'],5,sad,3,abrupt,5,5,4,4,3,False,3,3,5,1,1,3,1,1,1,3
+Just Mercy,3,3,3,4,"['strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,4,4,4,3,3,False,4,4,5,1,1,3,1,1,1,3
+Gifted,4,3,4,4,"['strong_pacing', 'tight_structure']",[],4,happy,4,satisfying,4,3,4,3,3,False,4,3,5,1,1,2,1,1,1,3
+The Peanut Butter Falcon,3,4,4,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,4,4,4,3,False,4,5,5,3,1,2,1,1,2,3
+Victoria,4,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,4,earned,5,5,4,5,3,False,4,4,5,1,1,3,1,3,1,4
+Mustang,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,3,False,4,3,5,3,3,3,1,1,1,3
+Guardians of the Galaxy Vol. 2,3,4,4,3,"['unpredictable', 'plot_twists', 'strong_pacing']","['predictable', 'cliche']",5,bittersweet,4,earned,4,4,4,5,5,False,4,5,4,5,5,3,1,3,1,3
+Baby Driver,5,4,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,4,4,5,4,False,5,5,4,1,2,2,1,3,1,3
+Only the Brave,3,3,2,4,"['strong_pacing', 'tight_structure']",['predictable'],4,sad,5,earned,4,4,4,4,4,False,4,4,5,1,1,2,1,3,1,3
+Bridge of Spies,3,3,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,3,4,4,3,False,4,3,5,1,2,3,1,1,1,3
+Incredibles 2,4,2,5,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,energized,4,satisfying,4,3,3,5,5,False,4,4,5,5,4,2,1,4,1,3
+Moana,4,3,5,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,energized,4,satisfying,5,4,4,5,5,False,5,5,4,1,5,1,1,1,1,3
+Sicario,4,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,disappointed,4,earned,5,5,4,5,4,False,5,3,5,1,1,3,1,1,2,2
+Creed,4,4,3,4,"['strong_pacing', 'tight_structure', 'unpredictable']",['cliche'],4,bittersweet,4,satisfying,4,4,4,4,3,False,4,4,5,5,5,2,1,2,1,3
+Leviafan,2,4,1,4,"['tight_structure', 'unpredictable']",['predictable'],4,sad,5,earned,4,5,4,5,3,False,4,3,5,1,4,4,2,1,3,3
+Hell or High Water,4,4,1,5,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,ambiguous,5,5,5,5,4,False,5,5,5,1,1,3,1,1,1,3
+Philomena,3,3,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,3,3,False,4,3,5,3,3,3,1,1,1,3
+Dawn of the Planet of the Apes,3,3,2,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],3,bittersweet,4,earned,4,4,4,4,5,False,4,3,4,5,3,3,1,1,3,3
+El cuerpo,4,3,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],3,energized,4,satisfying,4,4,4,3,3,False,4,3,4,1,1,4,1,1,1,5
+Serbuan maut,5,4,1,4,"['strong_pacing', 'tight_structure']",[],3,energized,4,earned,5,5,5,4,4,False,5,4,4,3,1,1,1,3,1,3
+End of Watch,5,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,4,4,4,False,4,4,5,1,1,3,1,3,1,3
+Kari-gurashi no Arietti,3,3,5,3,['tight_structure'],['predictable'],4,bittersweet,4,satisfying,5,3,4,5,5,False,5,5,4,1,1,1,1,1,1,3
+A Star Is Born,4,2,1,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,sad,4,earned,4,5,4,4,3,False,5,5,5,1,2,2,1,3,1,4
+True Grit,3,3,2,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,5,4,4,5,4,False,4,4,5,1,1,3,1,1,3,3
+Hævnen,3,4,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,3,3,False,4,3,4,4,2,4,1,1,1,3
+Despicable Me,3,3,5,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,happy,4,earned,3,5,3,3,3,False,4,4,5,1,1,1,1,1,1,3
+50/50,4,4,2,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,4,4,3,3,False,4,4,5,1,1,3,1,1,1,3
+Kick-Ass,4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing']",[],4,bittersweet,4,satisfying,4,4,4,4,3,False,4,5,4,1,4,2,1,2,1,3
+Celda 211,5,4,1,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],5,sad,5,earned,5,5,5,4,3,False,4,3,5,1,1,3,1,1,1,3
+Moneyball,4,4,4,4,"['strong_pacing', 'tight_structure']",[],5,bittersweet,4,earned,4,4,4,3,3,False,4,3,5,1,2,3,2,1,1,3
+La piel que habito,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,sad,4,earned,4,5,4,5,4,False,5,4,5,1,2,4,1,1,1,5
+Zombieland,4,4,2,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,happy,4,earned,4,4,4,3,3,False,3,4,5,1,2,1,1,2,1,3
+Die Welle,4,4,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,4,5,4,3,3,False,4,4,4,3,4,4,1,1,1,3
+Sherlock Holmes,5,4,3,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,energized,4,satisfying,4,3,4,4,4,False,4,3,5,3,4,3,1,3,1,3
+The Blind Side,3,2,5,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",2,happy,4,earned,3,3,3,3,3,False,3,3,4,1,1,1,1,1,1,3
+The Visitor,2,5,1,2,['unpredictable'],"['plot_holes', 'narrative_inconsistency']",2,neutral,2,ambiguous,2,4,3,4,3,False,3,3,3,1,2,5,1,2,1,3
+Seven Pounds,3,3,2,2,[],"['plot_holes', 'predictable', 'cliche']",3,sad,2,abrupt,3,3,3,3,3,False,4,3,4,1,1,3,1,1,1,2
+Eastern Promises,4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,neutral,4,satisfying,5,5,4,4,4,False,5,3,5,3,2,3,1,1,1,3
+Stardust,4,4,4,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,happy,4,satisfying,4,3,4,4,4,False,4,3,4,1,4,3,1,1,1,3
+The Secret of Kells,3,5,4,4,"['strong_pacing', 'tight_structure']",['predictable'],3,bittersweet,4,earned,5,4,4,5,5,False,5,4,3,1,5,3,1,1,1,3
+Inside Man,4,4,1,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,neutral,4,satisfying,4,4,4,3,3,False,4,4,5,1,2,4,1,1,1,3
+Gone Baby Gone,4,4,1,5,"['unpredictable', 'plot_twists', 'tight_structure', 'strong_pacing']",[],4,bittersweet,5,earned,4,5,4,3,3,False,4,3,5,1,1,4,1,1,1,3
+La Vie En Rose,3,3,1,3,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,4,earned,4,5,4,4,3,False,4,5,5,1,4,3,1,1,1,3
+Huo Yuan Jia,3,3,4,4,"['strong_pacing', 'tight_structure']",['predictable'],2,bittersweet,4,earned,4,4,4,4,4,False,4,5,4,4,4,3,1,2,1,3
+The Illusionist,3,3,3,4,"['plot_twists', 'tight_structure', 'unpredictable']",['predictable'],3,energized,4,earned,4,3,3,4,4,False,4,4,4,1,1,3,1,1,1,5
+Dead Man's Shoes,4,4,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,3,3,False,4,4,5,1,1,3,1,1,1,3
+Harry Potter and the Half-Blood Prince,2,3,3,2,"['plot_twists', 'strong_pacing']","['predictable', 'narrative_inconsistency']",3,sad,4,earned,4,3,3,5,4,False,3,3,4,5,5,3,1,2,1,3
+300,5,4,1,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,bittersweet,4,earned,4,5,4,5,5,False,4,4,4,3,2,2,1,2,1,3
+Match Point,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,neutral,5,earned,4,5,4,3,3,False,4,4,4,3,3,4,1,1,1,5
+Watchmen,2,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,3,earned,4,4,4,5,4,False,4,5,4,1,5,5,2,3,1,3
+Lord of War,3,4,1,4,"['strong_pacing', 'tight_structure']",['narrative_inconsistency'],4,disappointed,4,earned,4,4,4,3,3,False,3,4,5,1,2,4,2,2,1,3
+Saw,4,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['plot_holes'],3,energized,5,satisfying,4,5,4,3,3,False,5,4,3,5,2,3,1,2,1,5
+"Synecdoche, New York",2,5,1,4,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],4,sad,4,earned,4,5,4,3,3,False,4,3,5,1,4,5,3,1,1,3
+Mysterious Skin,3,4,1,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,4,3,False,5,4,5,1,1,4,1,3,1,3
+Jeux d'enfants,3,4,1,3,"['unpredictable', 'plot_twists']","['narrative_inconsistency', 'predictable']",4,bittersweet,4,earned,4,4,3,4,3,False,4,4,5,1,1,3,1,1,1,3
+Un long dimanche de fiançailles,3,4,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,4,earned,4,4,4,5,4,False,4,4,4,4,4,4,2,2,2,3
+The Station Agent,3,4,3,4,"['tight_structure', 'unpredictable']",[],4,bittersweet,4,satisfying,4,4,4,3,1,False,4,3,5,1,1,3,1,1,1,3
+21 Grams,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['narrative_inconsistency'],4,sad,4,earned,5,5,4,4,3,False,4,3,5,1,1,5,1,1,1,3
+Boksuneun naui geot,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,sad,5,earned,5,5,4,5,3,False,4,3,4,4,2,4,1,3,1,5
+Finding Neverland,3,3,4,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,4,3,4,4,3,False,5,3,5,1,5,3,1,1,1,3
+25th Hour,3,4,1,4,"['tight_structure', 'unpredictable', 'strong_pacing']",[],5,bittersweet,5,earned,4,5,4,4,3,False,5,4,5,1,2,4,1,1,2,3
+The Butterfly Effect,3,4,1,3,"['unpredictable', 'plot_twists', 'strong_pacing']","['plot_holes', 'narrative_inconsistency']",2,bittersweet,3,earned,4,4,3,3,3,False,3,3,4,1,1,4,1,1,1,3
+28 Days Later...,5,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",['predictable'],4,bittersweet,4,earned,5,5,5,4,4,False,5,4,4,4,2,3,1,4,2,3
+Batoru rowaiaru,5,5,1,4,"['unpredictable', 'plot_twists', 'strong_pacing']",['narrative_inconsistency'],3,bittersweet,4,earned,5,5,4,4,4,False,4,4,4,1,2,3,1,3,1,5
+The Royal Tenenbaums,3,5,2,4,"['tight_structure', 'unpredictable']",[],5,bittersweet,4,earned,5,5,4,5,3,False,5,5,5,1,3,3,1,1,1,3
+Y tu mamá también,3,4,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,4,4,4,3,False,4,4,5,1,2,3,1,1,1,3
+Harry Potter and the Sorcerer's Stone,3,3,5,3,['tight_structure'],['predictable'],3,happy,4,satisfying,5,4,3,4,4,False,5,4,3,5,4,2,1,2,1,3
+The Others,3,4,2,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,bittersweet,5,earned,5,4,4,4,3,False,4,4,5,1,1,3,1,1,1,4
+Blow,3,3,1,3,"['strong_pacing', 'tight_structure']","['predictable', 'narrative_inconsistency']",4,bittersweet,4,earned,4,3,3,3,3,False,4,5,4,1,2,2,1,1,1,3
+Enemy at the Gates,3,3,1,3,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",3,bittersweet,3,earned,4,3,3,4,3,False,4,3,4,1,4,2,1,3,2,3
+Minority Report,4,5,2,4,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,satisfying,5,5,4,5,5,False,4,4,4,1,2,4,2,2,1,4
+The Hurricane,3,3,2,4,"['strong_pacing', 'tight_structure']",['narrative_inconsistency'],4,bittersweet,4,satisfying,4,4,4,3,3,False,4,3,5,1,1,3,1,1,1,3
+American Psycho,3,5,1,4,"['unpredictable', 'tight_structure']",[],5,neutral,4,ambiguous,4,5,4,4,3,False,5,5,5,1,4,4,1,2,1,3
+Lola rennt,5,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,happy,4,earned,5,5,4,4,3,False,5,5,4,1,2,3,1,4,1,2
+The Thin Red Line,2,5,1,3,['unpredictable'],['narrative_inconsistency'],3,bittersweet,4,earned,5,5,4,5,4,False,5,4,5,3,2,5,1,3,3,3
+Mulan,2,2,3,2,[],"['predictable', 'cliche', 'narrative_inconsistency']",2,neutral,2,rushed,2,1,2,4,4,False,3,2,3,2,3,2,1,1,1,3
+Fear and Loathing in Las Vegas,2,5,1,2,['unpredictable'],['narrative_inconsistency'],5,neutral,3,ambiguous,5,5,4,5,4,False,4,5,5,1,4,4,1,5,1,2
+Funny Games,3,5,1,4,"['unpredictable', 'tight_structure']",[],4,disappointed,4,abrupt,4,5,4,3,2,False,4,4,5,1,4,4,2,1,1,5
+Dark City,3,5,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",['predictable'],3,energized,4,satisfying,5,5,4,5,4,False,4,3,4,1,2,5,1,2,1,3
+Sleepers,2,3,1,3,"['tight_structure', 'unpredictable']","['plot_holes', 'predictable']",4,bittersweet,3,earned,4,4,3,3,3,False,4,4,5,1,2,4,1,1,1,3
+Lost Highway,2,5,1,3,"['unpredictable', 'plot_twists']",['narrative_inconsistency'],3,neutral,2,ambiguous,4,4,3,4,3,False,5,5,4,1,2,5,2,3,1,3
+Sense and Sensibility,4,3,4,5,"['tight_structure', 'strong_pacing']",[],5,happy,5,earned,5,4,5,5,3,False,5,4,5,1,2,3,1,1,1,3
+Die Hard: With a Vengeance,5,4,1,4,"['plot_twists', 'strong_pacing', 'tight_structure']",['plot_holes'],5,energized,4,satisfying,4,5,4,3,3,False,5,4,5,5,3,3,1,2,1,3
+Dead Man,2,5,1,3,"['tight_structure', 'unpredictable']",['predictable'],4,bittersweet,5,earned,5,5,4,5,4,False,5,5,5,1,3,4,1,1,3,3
+The Bridges of Madison County,3,3,1,4,"['strong_pacing', 'tight_structure']","['predictable', 'cliche']",4,bittersweet,4,earned,4,4,4,4,3,False,4,3,5,1,1,2,1,1,1,3
+Apollo 13,4,3,4,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,energized,5,satisfying,5,4,4,4,5,False,5,4,5,1,1,3,2,1,1,1
+Trois couleurs: Blanc,3,4,1,4,"['unpredictable', 'plot_twists', 'tight_structure']",[],3,bittersweet,4,earned,4,4,4,4,3,False,5,4,4,5,3,4,2,1,1,3
+Falling Down,4,4,1,4,"['strong_pacing', 'tight_structure']",[],4,sad,4,earned,4,4,4,3,3,False,4,3,5,1,2,3,1,1,1,3
+Dazed and Confused,3,4,1,3,"['tight_structure', 'unpredictable']",['predictable'],5,bittersweet,4,earned,5,5,4,4,3,False,5,5,5,1,4,2,1,1,1,4
+My Cousin Vinny,4,3,3,4,"['strong_pacing', 'tight_structure']",['predictable'],5,happy,5,satisfying,4,4,4,3,3,False,3,3,5,1,1,2,2,1,1,3
+Omohide poro poro,3,4,3,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,4,4,5,4,False,4,4,5,1,2,3,1,1,1,2
+Delicatessen,3,5,1,4,"['unpredictable', 'tight_structure']",[],4,bittersweet,4,satisfying,5,5,4,5,5,False,5,4,4,1,1,3,1,1,1,2
+Home Alone,4,4,5,4,"['strong_pacing', 'tight_structure']",['predictable'],4,happy,4,satisfying,4,5,4,3,3,False,5,4,5,3,1,1,1,1,1,3
+The Godfather: Part III,2,2,2,2,"['plot_twists', 'tight_structure']","['plot_holes', 'predictable', 'narrative_inconsistency']",2,sad,4,earned,2,2,2,4,3,False,4,4,2,5,4,4,1,1,1,4
+When Harry Met Sally...,4,4,3,4,"['strong_pacing', 'tight_structure']",['predictable'],5,happy,5,earned,4,5,4,3,3,False,4,5,5,1,2,2,1,1,1,3
+The Little Mermaid,2,2,4,3,[],"['predictable', 'cliche', 'narrative_inconsistency']",2,happy,3,earned,3,2,3,4,3,False,4,4,4,3,4,1,1,1,1,5
+The Naked Gun: From the Files of Police Squad!,5,5,2,3,['tight_structure'],[],5,energized,5,earned,4,5,5,3,3,False,4,3,5,3,5,2,1,1,1,3
+"Planes, Trains & Automobiles",4,4,2,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,bittersweet,5,earned,4,5,4,3,3,False,4,4,5,1,2,2,1,1,1,3
+Lethal Weapon,5,4,1,4,"['strong_pacing', 'tight_structure']",['predictable'],5,happy,4,earned,4,5,4,3,3,False,4,3,5,1,1,2,1,3,1,3
+Blood Simple,3,5,1,5,"['unpredictable', 'plot_twists', 'tight_structure']",[],4,sad,5,earned,5,5,5,5,4,False,5,3,5,1,2,4,1,2,1,5
+On Golden Pond,3,3,4,4,['tight_structure'],[],5,bittersweet,4,satisfying,4,4,4,4,3,False,4,3,5,1,1,2,1,1,1,2
+Mad Max 2,5,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,bittersweet,5,satisfying,5,5,5,5,5,False,4,3,4,3,2,2,1,2,1,3
+The Warriors,5,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],5,energized,4,earned,5,5,4,4,3,False,5,5,4,1,2,2,1,2,1,2
+The Muppet Movie,4,5,5,4,"['strong_pacing', 'tight_structure']",['predictable'],5,happy,5,earned,5,5,5,4,5,False,4,5,5,5,4,1,1,1,1,1
+Escape from Alcatraz,3,3,1,4,"['strong_pacing', 'tight_structure']",[],3,energized,4,ambiguous,4,4,4,3,3,False,3,1,4,1,1,2,1,1,1,3
+Watership Down,3,5,1,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,3,3,False,4,4,4,1,2,4,1,2,5,3
+Midnight Express,4,4,1,3,"['unpredictable', 'strong_pacing']",['narrative_inconsistency'],3,energized,4,earned,5,5,3,4,3,False,5,5,5,1,2,4,1,1,1,3
+Close Encounters of the Third Kind,3,5,4,4,"['unpredictable', 'strong_pacing', 'tight_structure']",[],3,energized,5,earned,5,5,5,5,5,False,5,5,4,1,1,3,1,4,1,4
+The Long Goodbye,3,5,1,4,"['unpredictable', 'tight_structure']",['narrative_inconsistency'],5,bittersweet,5,earned,5,5,5,5,3,False,4,4,5,1,2,4,1,1,1,4
+Giù la testa,3,4,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,5,5,4,5,4,False,5,5,5,1,2,4,1,2,2,3
+Kelly's Heroes,3,3,3,3,"['unpredictable', 'strong_pacing']",['narrative_inconsistency'],4,energized,4,satisfying,3,3,3,3,3,False,4,4,4,1,2,2,1,1,1,3
+The Jungle Book,4,2,5,4,"['strong_pacing', 'tight_structure']",[],3,happy,4,earned,5,3,4,5,5,False,4,4,4,3,4,2,1,2,3,3
+Blowup,3,5,1,4,"['unpredictable', 'tight_structure']",[],3,neutral,5,ambiguous,5,5,4,5,3,False,4,5,4,1,2,4,2,1,1,3
+A Hard Day's Night,5,5,5,4,"['strong_pacing', 'tight_structure']",[],5,energized,5,satisfying,4,5,5,5,3,False,5,5,5,1,4,1,1,1,1,1
+Breakfast at Tiffany's,3,3,2,3,[],"['predictable', 'cliche']",4,happy,4,satisfying,4,5,4,4,3,False,5,5,3,3,3,2,1,1,1,3
+Giant,2,3,3,4,['tight_structure'],['predictable'],4,bittersweet,4,earned,4,5,4,5,3,False,5,3,5,1,1,3,1,1,1,3
+From Here to Eternity,3,5,1,4,"['strong_pacing', 'tight_structure']",[],4,bittersweet,4,earned,4,5,4,4,3,False,4,4,5,4,4,3,1,1,1,3
+Lifeboat,4,4,2,4,"['strong_pacing', 'tight_structure', 'unpredictable']",[],4,neutral,4,satisfying,4,4,4,3,3,False,3,3,4,1,1,4,1,1,1,1
+The 39 Steps,5,5,3,5,"['unpredictable', 'plot_twists', 'strong_pacing', 'tight_structure']",[],4,happy,4,earned,4,5,5,4,3,False,3,3,4,1,1,3,1,1,1,3
