@@ -1,6 +1,7 @@
 """Report Card page for the Cinatomy application."""
 
 import pandas as pd
+import random
 import streamlit as st
 
 from components.score_breakdown import render_score_breakdown
@@ -11,18 +12,37 @@ from utils.data_loader import get_movie_list, load_data
 from utils.feature_engine import find_similar_movies
 
 # Need to ensure CSS is loaded if running independently (though app.py will load it)
-with open("styles/theme.css") as f:
-    st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+try:
+    with open("styles/theme.css") as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+except FileNotFoundError:
+    pass
 
 df = load_data()
 movie_list = get_movie_list(df)
+
+# Handle true random selection from navbar navigation
+current_page = "report_card"
+last_page = st.session_state.get("last_page", "")
+
+if last_page != current_page:
+    # We just navigated to this page
+    if not st.session_state.get("explicit_movie_request", False):
+        # Navigated from the navbar (not explicitly from a movie button)
+        st.session_state["selected_movie"] = random.choice(movie_list)
+    else:
+        # Reset the flag so future navbar clicks randomize again
+        st.session_state["explicit_movie_request"] = False
+
+st.session_state["last_page"] = current_page
 
 # Sidebar movie selector
 selected_movie = st.sidebar.selectbox(
     "Select a Movie",
     movie_list,
     index=movie_list.index(st.session_state.get("selected_movie", movie_list[0]))
-    if st.session_state.get("selected_movie") in movie_list else 0
+    if st.session_state.get("selected_movie") in movie_list else 0,
+    key="report_card_selectbox"
 )
 
 # Update session state with selected movie

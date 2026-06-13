@@ -15,6 +15,8 @@ st.markdown("Find your next watch by tuning movie features.", unsafe_allow_html=
 
 df = load_data()
 
+st.session_state["last_page"] = "discover"
+
 # --- Quick Presets ---
 st.markdown('<div class="report-card">', unsafe_allow_html=True)
 st.markdown('<div class="section-header">Quick Presets</div>', unsafe_allow_html=True)
@@ -112,6 +114,7 @@ else:
             
             if st.button(f"Report", key=f"res_btn_{title}_{i}", use_container_width=True):
                 st.session_state["selected_movie"] = title
-                st.switch_page("pages/1_Report_Card.py")
+                st.session_state["explicit_movie_request"] = True
+                st.switch_page("pages/report_card.py")
 
 st.markdown('</div>', unsafe_allow_html=True)

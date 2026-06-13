@@ -48,4 +48,5 @@ def render_similar_movies(similar_list, full_df):
             # Add a button that sets the session state to navigate to this movie
             if st.button(f"View {title}", key=f"sim_btn_{i}_{title}", use_container_width=True):
                 st.session_state["selected_movie"] = title
-                st.rerun()
+                st.session_state["explicit_movie_request"] = True
+                st.switch_page("pages/report_card.py")

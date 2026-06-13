@@ -27,8 +27,18 @@
 }
 
 /* --- Base Typography --- */
-html, body, [class*="st-"] {
+html, body {
     font-family: var(--font-body);
+}
+
+/* Ensure we only target text elements inside Streamlit, not icons */
+p, span, div, label {
+    font-family: var(--font-body);
+}
+
+/* Revert Material Symbols font for icons to fix the 'keyboard_double_arrow_right' bug */
+.material-symbols-rounded {
+    font-family: 'Material Symbols Rounded' !important;
 }
 
 h1, h2, h3, h4, h5, h6,
