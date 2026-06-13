@@ -31,6 +31,13 @@ def load_data():
         right_on="Series_Title",
         how="left",
     )
+    
+    # Fix blurry IMDB posters by requesting higher resolution (500px width instead of 67px)
+    if "Poster_Link" in merged.columns:
+        merged["Poster_Link"] = merged["Poster_Link"].str.replace(
+            r"\._V1_.*\.jpg$", "._V1_FMjpg_UX500_.jpg", regex=True
+        )
+        
     return merged
 
 

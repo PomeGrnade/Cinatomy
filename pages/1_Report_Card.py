@@ -1,5 +1,6 @@
 """Report Card page for the Cinatomy application."""
 
+import pandas as pd
 import streamlit as st
 
 from components.score_breakdown import render_score_breakdown
