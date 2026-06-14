@@ -1,31 +1,29 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
-
-# Virtual Environments
+*.pyo
 .venv/
 venv/
-ENV/
 env/
+*.egg-info/
+dist/
+build/
 
-# Streamlit
-.streamlit/credentials.toml
+# Environment & secrets — NEVER commit these
+.env
+api_keys.txt
+*.key
 
-# IDEs
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Intermediate / scratch outputs
+input_movies.csv
+movie_profiles_database.csv
+
+# IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Agent/Artifacts
-.agent/
-.agents/
-docs/plans/
-
-# Large files
-*.ipynb
