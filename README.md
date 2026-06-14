@@ -217,12 +217,17 @@ Issues and PRs are welcome, especially for:
 
 ## 👥 Built By
 
-[Your name(s) here] — built in public, open to feedback, collaborators, and criticism.
+Anurag Singh, Aarush Srivastava, Vansh Varshney, Ishmeet Singh — built in public, open to feedback, collaborators, and criticism.
 
 ⭐ If this framing seems useful, a star helps gauge whether it's worth building further.
 
 ---
 
+## 📄 Kaggle
+
+https://www.kaggle.com/datasets/pomegrenade/cinatomy-experiential-movie-profiles
+
+---
 ## 📄 License
 
 MIT — use the data, modify the pipeline, build on it freely. Attribution appreciated.
