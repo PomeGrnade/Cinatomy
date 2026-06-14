@@ -1,55 +1,108 @@
 /* ============================================================
    Cinatomy — Custom Design System
-   UI-UX Pro Max: Dark Mode (OLED) + Data-Dense Analytics
-   Typography: Poppins (headings) + Open Sans (body)
+   UI-UX Pro Max: Bohemian 60-30-10 Interior Design
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700;800&display=swap');
 
 /* --- CSS Custom Properties --- */
 :root {
-    --color-primary: #3B82F6;
-    --color-secondary: #60A5FA;
-    --color-bg: #0A0E27;
-    --color-surface: #121212;
-    --color-text: #F8FAFC;
-    --color-muted: #94A3B8;
-    --color-border: #1E293B;
-    --color-success: #22C55E;
-    --color-warning: #EAB308;
-    --color-danger: #EF4444;
-    --color-orange: #F97316;
-    --color-blue: #3B82F6;
-    --font-heading: 'Poppins', sans-serif;
-    --font-body: 'Open Sans', sans-serif;
+    --color-primary: #849C8A;       /* Muted sage green */
+    --color-secondary: #788E7E;     /* Darker sage */
+    --color-bg: #FDFBF7;            /* Light textured warm cream */
+    --color-surface: #F9F5EB;       /* Cream surface for cards */
+    --color-text: #2C1A11;          /* Deep walnut brown (DARK TEXT) */
+    --color-accent: #C35B48;        /* Warm terracotta */
+    --color-dark-sage: #6A8270;     /* Dark sage green for dropdown */
+    --color-muted: #8E7C71;         /* Muted earthy brown */
+    --color-border: #E8DFD0;        /* Jute */
+    --font-heading: 'Playfair Display', serif;
+    --font-body: 'Inter', sans-serif;
     --radius: 12px;
     --transition: 200ms ease-out;
 }
 
-/* --- Base Typography --- */
-html, body {
+/* Base App Background (60% Cream) */
+.stApp {
+    background: url('data:image/svg+xml;utf8,<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg"><rect width="20" height="20" fill="%23FDFBF7"/><path d="M0 10h20M10 0v20" stroke="%23E8DFD0" stroke-width="0.5" stroke-dasharray="1 1" opacity="0.3"/></svg>') !important;
+    background-color: var(--color-bg) !important;
+}
+
+/* Force Deep Walnut Text Globally */
+html, body, p, span, div, label, li, a {
     font-family: var(--font-body);
+    color: var(--color-text) !important;
 }
 
-/* Ensure we only target text elements inside Streamlit, not icons */
-p, span, div, label {
-    font-family: var(--font-body);
-}
-
-/* Revert Material Symbols font for icons to fix the 'keyboard_double_arrow_right' bug */
-.material-symbols-rounded {
-    font-family: 'Material Symbols Rounded' !important;
-}
-
-h1, h2, h3, h4, h5, h6,
-[data-testid="stHeading"] {
+h1, h2, h3, h4, h5, h6, [data-testid="stHeading"], .stMarkdown h1, .stMarkdown h2, .stMarkdown h3 {
     font-family: var(--font-heading) !important;
     font-weight: 600;
+    color: var(--color-text) !important;
+}
+
+/* --- Streamlit Element Overrides (30% Sidebar & Header) --- */
+
+/* Top Header Bar */
+header[data-testid="stHeader"] {
+    background-color: var(--color-text) !important;
+}
+
+/* Left Sidebar */
+[data-testid="stSidebar"] {
+    background-color: var(--color-primary) !important;
+    border-right: 1px solid var(--color-border);
+}
+
+/* Sidebar Active Menu Item (10% Terracotta) */
+[data-testid="stSidebarNavItems"] li a[aria-current="page"] {
+    background-color: var(--color-accent) !important;
+}
+[data-testid="stSidebarNavItems"] li a[aria-current="page"] span {
+    color: #FDFBF7 !important; /* Cream text on terracotta background */
+    font-weight: 600;
+}
+
+/* Drop-down Bar (Selectbox) */
+[data-testid="stSelectbox"] > div > div {
+    background-color: var(--color-dark-sage) !important;
+    border: 2px solid var(--color-text) !important;
+    border-radius: var(--radius);
+}
+[data-testid="stSelectbox"] > div > div, 
+[data-testid="stSelectbox"] > div > div p, 
+[data-testid="stSelectbox"] > div > div span, 
+[data-testid="stSelectbox"] > div > div div {
+    color: var(--color-bg) !important; /* Cream text inside dropdown */
+}
+[data-testid="stSelectbox"] {
+    cursor: pointer;
+}
+
+/* Dropdown Menu (Popover List) */
+[data-baseweb="menu"], [role="listbox"] {
+    background-color: var(--color-surface) !important;
+    border: 1px solid var(--color-border) !important;
+    border-radius: var(--radius);
+}
+[data-baseweb="menu"] li, [role="option"] {
+    color: var(--color-text) !important;
+    background-color: transparent !important;
+    font-family: var(--font-body);
+}
+[data-baseweb="menu"] li:hover,
+[data-baseweb="menu"] li[aria-selected="true"],
+[role="option"]:hover,
+[role="option"][aria-selected="true"] {
+    background-color: rgba(132, 156, 138, 0.2) !important; /* light sage green hover */
+    color: var(--color-text) !important;
+}
+[data-baseweb="popover"], [data-baseweb="popover"] > div {
+    background-color: var(--color-surface) !important;
 }
 
 /* --- Cards / Containers --- */
 .report-card {
-    background: var(--color-surface);
+    background: var(--color-surface) !important;
     border: 1px solid var(--color-border);
     border-radius: var(--radius);
     padding: 1.5rem;
@@ -70,85 +123,18 @@ h1, h2, h3, h4, h5, h6,
     border-bottom: 1px solid var(--color-border);
 }
 
-/* --- Score Badge --- */
-.score-badge {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 40px;
-    height: 40px;
-    border-radius: 8px;
-    font-family: var(--font-heading);
-    font-weight: 700;
-    font-size: 1.1rem;
-    color: var(--color-text);
-}
-
-/* --- Progress Bars (Feature Breakdown) --- */
-.feature-bar-container {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    margin-bottom: 0.5rem;
-}
-.feature-bar-label {
-    flex: 0 0 160px;
-    font-size: 0.85rem;
-    color: var(--color-muted);
-    text-align: right;
-    font-family: var(--font-body);
-}
-.feature-bar-track {
-    flex: 1;
-    height: 8px;
-    background: var(--color-border);
-    border-radius: 4px;
-    overflow: hidden;
-}
-.feature-bar-fill {
-    height: 100%;
-    border-radius: 4px;
-    transition: width var(--transition);
-}
-.feature-bar-value {
-    flex: 0 0 32px;
-    font-size: 0.85rem;
-    font-weight: 600;
-    font-family: var(--font-body);
-    font-variant-numeric: tabular-nums;
-    color: var(--color-text);
-}
-
-/* --- Movie Cards (Similar / Discover) --- */
-.movie-card {
-    background: var(--color-surface);
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius);
-    padding: 1rem;
-    cursor: pointer;
-    transition: border-color var(--transition), transform var(--transition);
-}
-.movie-card:hover {
-    border-color: var(--color-primary);
-    transform: translateY(-2px);
-}
-
-.similarity-badge {
-    display: inline-block;
-    background: var(--color-primary);
-    color: var(--color-text);
-    padding: 0.2rem 0.6rem;
-    border-radius: 6px;
-    font-size: 0.75rem;
-    font-weight: 600;
-    font-family: var(--font-heading);
+/* --- Icons --- */
+/* Fix Material Symbols */
+.material-symbols-rounded {
+    font-family: 'Material Symbols Rounded' !important;
+    color: inherit !important;
 }
 
 /* --- Overall Score --- */
 .overall-score {
     text-align: center;
     padding: 1.5rem;
-    background: linear-gradient(135deg, rgba(59, 130, 246, 0.08) 0%, rgba(96, 165, 250, 0.04) 100%);
+    background: linear-gradient(135deg, rgba(132, 156, 138, 0.08) 0%, rgba(209, 162, 122, 0.04) 100%);
     border: 1px solid var(--color-border);
     border-radius: var(--radius);
     margin: 1rem 0;
@@ -157,13 +143,8 @@ h1, h2, h3, h4, h5, h6,
     font-family: var(--font-heading);
     font-size: 3rem;
     font-weight: 700;
-    color: var(--color-primary);
+    color: var(--color-primary) !important;
     line-height: 1;
-}
-.overall-score .score-label {
-    font-size: 0.9rem;
-    color: var(--color-muted);
-    margin-top: 0.25rem;
 }
 
 /* --- Emotional Profile Tags --- */
@@ -175,31 +156,19 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 500;
     margin: 0.2rem;
     border: 1px solid var(--color-border);
-    color: var(--color-text);
-    background: rgba(59, 130, 246, 0.1);
+    color: var(--color-text) !important;
+    background: rgba(132, 156, 138, 0.1);
 }
 
 /* --- Synopsis Box --- */
 .synopsis-box {
-    background: rgba(59, 130, 246, 0.05);
+    background: rgba(132, 156, 138, 0.05);
     border-left: 3px solid var(--color-primary);
     padding: 1rem 1.25rem;
     border-radius: 0 var(--radius) var(--radius) 0;
     font-size: 0.95rem;
     line-height: 1.7;
-    color: var(--color-text);
     margin: 1rem 0;
-}
-
-/* --- Streamlit Overrides --- */
-/* Sidebar */
-[data-testid="stSidebar"] {
-    background-color: var(--color-surface) !important;
-}
-
-/* Slider track */
-[data-testid="stSlider"] [role="slider"] {
-    cursor: pointer;
 }
 
 /* Buttons */
@@ -207,64 +176,57 @@ h1, h2, h3, h4, h5, h6,
     cursor: pointer;
     transition: all var(--transition);
     border-radius: 8px;
+    border: 1px solid var(--color-text) !important;
+    color: var(--color-text) !important;
+    background: transparent !important;
 }
 .stButton > button:hover {
-    transform: translateY(-1px);
+    background: var(--color-primary) !important;
+    color: var(--color-bg) !important;
+    border-color: var(--color-primary) !important;
+}
+.stButton > button[data-testid="baseButton-primary"] {
+    background: var(--color-accent) !important;
+    color: var(--color-bg) !important;
+    border-color: var(--color-accent) !important;
+}
+.stButton > button[data-testid="baseButton-primary"]:hover {
+    background: var(--color-text) !important;
+    border-color: var(--color-text) !important;
 }
 
 /* Tabs */
 .stTabs [data-baseweb="tab"] {
     cursor: pointer;
     font-family: var(--font-heading);
-    transition: color var(--transition);
 }
 
-/* Selectbox */
-[data-testid="stSelectbox"] {
-    cursor: pointer;
-}
+/* --- Progress Bars (Feature Breakdown) --- */
+.feature-bar-container { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.5rem; }
+.feature-bar-label { flex: 0 0 160px; font-size: 0.85rem; text-align: right; }
+.feature-bar-track { flex: 1; height: 8px; background: var(--color-border); border-radius: 4px; overflow: hidden; }
+.feature-bar-fill { height: 100%; border-radius: 4px; transition: width var(--transition); }
+.feature-bar-value { flex: 0 0 32px; font-size: 0.85rem; font-weight: 600; }
 
-/* --- Preset Buttons --- */
-.preset-btn {
-    display: inline-block;
-    padding: 0.4rem 1rem;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 500;
-    border: 1px solid var(--color-border);
-    color: var(--color-text);
+/* Movie Cards */
+.movie-card {
     background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1rem;
     cursor: pointer;
     transition: all var(--transition);
-    margin: 0.2rem;
 }
-.preset-btn:hover {
+.movie-card:hover {
     border-color: var(--color-primary);
-    background: rgba(59, 130, 246, 0.1);
+    transform: translateY(-2px);
 }
-
-/* --- Accessibility: Reduced Motion --- */
-@media (prefers-reduced-motion: reduce) {
-    *, *::before, *::after {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-    }
-    .movie-card:hover {
-        transform: none;
-    }
-    .stButton > button:hover {
-        transform: none;
-    }
-}
-
-/* --- Responsive --- */
-@media (max-width: 768px) {
-    .feature-bar-label {
-        flex: 0 0 100px;
-        font-size: 0.75rem;
-    }
-    .overall-score .score-number {
-        font-size: 2.2rem;
-    }
+.similarity-badge {
+    display: inline-block;
+    background: var(--color-primary);
+    color: var(--color-bg) !important;
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 600;
 }

@@ -1,0 +1,28 @@
+column_name,type,range_or_values,description
+movie_title,string,—,Title of the movie (drawn from the IMDb Top 1000 list).
+pacing_efficiency,integer,1-5,"How efficiently the film moves. 1 = dragged, 3 = deliberate / slow-burn, 5 = perfectly fast / thrilling pacing."
+originality,integer,1-5,"How fresh and unconventional the film's concept and execution feel. 1 = highly derivative, 5 = highly original."
+family_friendly,integer,1-5,"Suitability for family/group viewing across ages. 1 = highly inappropriate for kids, 3 = safe but unengaging for kids, 5 = universally engaging for the whole family."
+plot_quality_rating,integer,1-5,Overall quality of the plot and story construction.
+plot_quality_reasons_for_liking,list[string],"Subset of: unpredictable, plot_twists, strong_pacing, tight_structure","Reasons the plot was rated favorably. Stored as a Python list literal (e.g. ""['plot_twists', 'tight_structure']""); use ast.literal_eval() to parse. Empty list if none apply."
+plot_quality_reasons_for_disliking,list[string],"Subset of: plot_holes, predictable, cliche, narrative_inconsistency","Reasons the plot was rated unfavorably. Same list-literal format as above. Empty list if none apply."
+dialogues,integer,1-5,"Quality of dialogue writing. 1 = stilted / exposition-heavy, 5 = sharp and authentic."
+end_feeling_emotional_adjective,categorical,"happy, sad, disappointed, bittersweet, energized, neutral",The dominant emotion the ending evokes in the viewer.
+end_feeling_ending_rating,integer,1-5,Overall quality rating of the ending itself.
+end_feeling_structural_adjective,categorical,"rushed, satisfying, earned, ambiguous, abrupt",How the ending's construction/pacing felt structurally.
+immersive,integer,1-5,"How absorbing the viewing experience is. 1 = disconnecting, 5 = hypnotic / fully immersive environment."
+impactful,integer,1-5,"How memorable and resonant the film is afterward. 1 = instantly forgettable, 5 = leaves a massive lasting impression."
+overall_feeling,integer,1-5,The model's holistic overall impression/enjoyment rating of the film.
+visuals,integer,1-5,Quality of cinematography and visual composition.
+visual_effects,integer,1-5,Quality and believability of visual/special effects (CGI and practical).
+sound_audio_balance_issue,boolean,"True, False","Whether the film has noticeable audio mixing issues (e.g. dialogue drowned out by music or effects)."
+sound_bgm_quality,integer,1-5,Quality of the background score/musical score.
+sound_song_tracks_quality,integer,1-5,Quality of any featured songs or soundtrack music (as distinct from the background score).
+performance_of_actors,integer,1-5,Quality of the cast's acting performances.
+connected,integer,1-5,"How emotionally connected to the characters/story a viewer is likely to feel. 1 = detached, 5 = deeply invested."
+references_contained,integer,1-5,"Density of references, homages, or easter eggs to other works or culture. 1 = none, 5 = heavily referential."
+cognitive_requirement,integer,1-5,"Mental effort required to follow and understand the film. 1 = passive / easy to follow, 5 = demands close attention and active thought."
+technical_knowledge_required,integer,1-5,"How much specialized prior knowledge (technical, historical, franchise lore, etc.) is needed to fully appreciate the film. 1 = none needed, 5 = substantial."
+photosensitivity_warnings,integer,1-5,"Level of flashing lights, strobing, or rapid visual changes that may affect photosensitive viewers. 1 = none, 5 = significant warning warranted."
+animal_harm,integer,1-5,"Degree of depicted or implied harm to animals. 1 = none, 5 = significant / graphic."
+trailer_or_spoiler,integer,1-5,"How much the film's marketing/trailers reveal key plot points. 1 = trailer reveals little, 5 = trailer/marketing heavily spoils the plot."

@@ -75,18 +75,18 @@ FEATURE_GROUPS = {
 
 # Design system color palette
 COLOR_PALETTE = {
-    "primary": "#3B82F6",
-    "secondary": "#60A5FA",
-    "background": "#0A0E27",
-    "surface": "#121212",
-    "text": "#F8FAFC",
-    "muted": "#94A3B8",
-    "border": "#1E293B",
-    "success": "#22C55E",
-    "warning": "#EAB308",
-    "danger": "#EF4444",
-    "blue": "#3B82F6",
-    "orange": "#F97316",
+    "primary": "#849C8A",
+    "secondary": "#788E7E",
+    "background": "#FDFBF7",
+    "surface": "#F9F5EB",
+    "text": "#3C2A21",
+    "muted": "#8E7C71",
+    "border": "#E8DFD0",
+    "success": "#849C8A",
+    "warning": "#D1A27A",
+    "danger": "#C35B48",
+    "blue": "#849C8A",
+    "orange": "#C35B48",
 }
 
 
@@ -102,6 +102,13 @@ def score_color(score):
         return COLOR_PALETTE["orange"]
     else:
         return COLOR_PALETTE["danger"]
+
+
+def render_stars(score, max_score=5):
+    """Return HTML string of filled and hollow stars for a 1-5 score."""
+    filled = round(float(score))
+    filled = max(0, min(filled, max_score))
+    return ("★" * filled) + ("☆" * (max_score - filled))
 
 
 # Quick presets for the Discover page search

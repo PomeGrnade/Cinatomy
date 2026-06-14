@@ -29,9 +29,17 @@ preset_cols = st.columns(len(QUICK_PRESETS) + 1)
 for i, (preset_name, preset_rules) in enumerate(QUICK_PRESETS.items()):
     with preset_cols[i]:
         if st.button(preset_name, key=f"preset_{preset_name}", use_container_width=True):
+            # Clear existing slider states first
+            for key in list(st.session_state.keys()):
+                if key.startswith("slider_"):
+                    del st.session_state[key]
+            
             # Apply preset to session state
             for feature_key, val_range in preset_rules.items():
                 st.session_state[f"slider_{feature_key}"] = val_range
+            
+            # Force a rerun to show the applied preset values
+            st.rerun()
 
 with preset_cols[-1]:
     if st.button("Reset All", key="preset_reset", use_container_width=True):
@@ -112,7 +120,7 @@ else:
             """
             st.markdown(html, unsafe_allow_html=True)
             
-            if st.button(f"Report", key=f"res_btn_{title}_{i}", use_container_width=True):
+            if st.button("Report Card", key=f"res_btn_{title}_{i}", use_container_width=True):
                 st.session_state["selected_movie"] = title
                 st.session_state["explicit_movie_request"] = True
                 st.switch_page("pages/report_card.py")

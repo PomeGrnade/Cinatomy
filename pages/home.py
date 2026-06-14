@@ -25,7 +25,7 @@ st.session_state["last_page"] = "home"
 # --- Hero Section ---
 st.markdown("""
 <div style="text-align: center; padding: 4rem 1rem;">
-    <h1 style="font-size: 3.5rem; margin-bottom: 0.5rem; background: linear-gradient(90deg, #3B82F6, #8B5CF6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Cinatomy</h1>
+    <h1 style="font-size: 3.5rem; margin-bottom: 0.5rem; background: linear-gradient(90deg, var(--color-primary), var(--color-accent)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Cinatomy</h1>
     <p style="font-size: 1.25rem; color: var(--color-muted); max-width: 600px; margin: 0 auto 2rem auto;">
         Decode the DNA of your favorite films. Explore detailed emotional profiles, plot structures, and discover new movies based on precise feature tuning.
     </p>
@@ -38,7 +38,7 @@ col1, col2, col3 = st.columns([1, 1, 1])
 with col1:
     st.markdown("""
     <div class="report-card" style="text-align: center; height: 100%;">
-        <div style="font-size: 2.5rem; margin-bottom: 1rem;">📊</div>
+        <div style="margin-bottom: 1rem;"><span class="material-symbols-rounded" style="font-size: 3rem; color: var(--color-primary);">analytics</span></div>
         <h3 style="margin-bottom: 0.5rem;">Report Card</h3>
         <p style="color: var(--color-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">Deep dive into an individual movie's emotional and structural profile.</p>
     </div>
@@ -49,7 +49,7 @@ with col1:
 with col2:
     st.markdown("""
     <div class="report-card" style="text-align: center; height: 100%;">
-        <div style="font-size: 2.5rem; margin-bottom: 1rem;">🔍</div>
+        <div style="margin-bottom: 1rem;"><span class="material-symbols-rounded" style="font-size: 3rem; color: var(--color-primary);">search</span></div>
         <h3 style="margin-bottom: 0.5rem;">Discover</h3>
         <p style="color: var(--color-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">Find your next watch by tuning 21 different movie features.</p>
     </div>
@@ -60,7 +60,7 @@ with col2:
 with col3:
     st.markdown("""
     <div class="report-card" style="text-align: center; height: 100%;">
-        <div style="font-size: 2.5rem; margin-bottom: 1rem;">🎲</div>
+        <div style="margin-bottom: 1rem;"><span class="material-symbols-rounded" style="font-size: 3rem; color: var(--color-accent);">casino</span></div>
         <h3 style="margin-bottom: 0.5rem;">Surprise Me</h3>
         <p style="color: var(--color-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">Don't know what to look at? Pick a completely random movie.</p>
     </div>

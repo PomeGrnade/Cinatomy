@@ -49,4 +49,9 @@ def render_similar_movies(similar_list, full_df):
             if st.button(f"View {title}", key=f"sim_btn_{i}_{title}", use_container_width=True):
                 st.session_state["selected_movie"] = title
                 st.session_state["explicit_movie_request"] = True
-                st.switch_page("pages/report_card.py")
+                
+                # Check if we are already on the report card page
+                if st.session_state.get("last_page") == "report_card":
+                    st.rerun()
+                else:
+                    st.switch_page("pages/report_card.py")

@@ -72,13 +72,11 @@ with col1:
     if poster:
         st.markdown(f'<img src="{poster}" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); aspect-ratio: 2/3; object-fit: cover;">', unsafe_allow_html=True)
     else:
-        st.markdown('<div style="width: 100%; aspect-ratio: 2/3; background: #1E293B; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #94A3B8;">No Poster</div>', unsafe_allow_html=True)
+        st.markdown('<div style="width: 100%; aspect-ratio: 2/3; background: var(--color-border); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: var(--color-muted);">No Poster</div>', unsafe_allow_html=True)
 
 with col2:
-    st.markdown('<div class="report-card">', unsafe_allow_html=True)
     st.markdown('<div class="section-header">Feature Profile</div>', unsafe_allow_html=True)
     render_spider_chart(movie, SPIDER_FEATURES)
-    st.markdown('</div>', unsafe_allow_html=True)
 
 # --- Synopsis Box ---
 st.markdown(f'<div class="synopsis-box"><strong>Synopsis:</strong> {overview}</div>', unsafe_allow_html=True)
@@ -92,13 +90,10 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # --- Detailed Feature Breakdown ---
-st.markdown('<div class="report-card">', unsafe_allow_html=True)
 st.markdown('<div class="section-header">Detailed Breakdown</div>', unsafe_allow_html=True)
 render_score_breakdown(movie)
-st.markdown('</div>', unsafe_allow_html=True)
 
 # --- Emotional Profile ---
-st.markdown('<div class="report-card">', unsafe_allow_html=True)
 st.markdown('<div class="section-header">Emotional Profile</div>', unsafe_allow_html=True)
 
 emo_col1, emo_col2 = st.columns(2)
@@ -128,12 +123,9 @@ concerns = str(movie.get("plot_quality_reasons_for_disliking", ""))
 if concerns and concerns != "nan":
     for c in concerns.split(','):
         if c.strip():
-            st.markdown(f'<span class="tag" style="background: rgba(239, 68, 68, 0.1); border-color: rgba(239, 68, 68, 0.2);">{c.strip()}</span>', unsafe_allow_html=True)
-            
-st.markdown('</div>', unsafe_allow_html=True)
+            st.markdown(f'<span class="tag" style="background: rgba(195, 91, 72, 0.1); border-color: rgba(195, 91, 72, 0.2); color: var(--color-danger);">{c.strip()}</span>', unsafe_allow_html=True)
 
 # --- Similar Movies ---
-st.markdown('<div class="report-card">', unsafe_allow_html=True)
 st.markdown('<div class="section-header">Similar Movies</div>', unsafe_allow_html=True)
 
 # Get all numeric features to compute similarity
@@ -141,5 +133,3 @@ numeric_features = [f[0] for f in ALL_NUMERIC_FEATURES]
 similar = find_similar_movies(df, selected_movie, numeric_features, top_n=3)
 
 render_similar_movies(similar, df)
-
-st.markdown('</div>', unsafe_allow_html=True)
